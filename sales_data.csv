@@ -1,0 +1,6 @@
+order_id,user_id,product,quantity,price,total,order_date
+1,u1,Laptop,1,1000,1000,2024-01-31
+2,u2,Phone,2,500,1000,2024-02-29
+3,u1,Tablet,1,300,300,2024-03-31
+4,u3,Laptop,1,1000,1000,2024-04-30
+5,u2,Phone,3,500,1500,2024-05-31
