@@ -1,0 +1,1175 @@
+2025-06-08 04:17:55,370 - INFO - Memory limit set to 16GB
+2025-06-08 04:17:55,390 - DEBUG - Looking for locale `en_US` in provider `faker.providers.address`.
+2025-06-08 04:17:55,391 - DEBUG - Provider `faker.providers.address` has been localized to `en_US`.
+2025-06-08 04:17:55,393 - DEBUG - Looking for locale `en_US` in provider `faker.providers.automotive`.
+2025-06-08 04:17:55,394 - DEBUG - Provider `faker.providers.automotive` has been localized to `en_US`.
+2025-06-08 04:17:55,395 - DEBUG - Looking for locale `en_US` in provider `faker.providers.bank`.
+2025-06-08 04:17:55,395 - DEBUG - Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+2025-06-08 04:17:55,396 - DEBUG - Looking for locale `en_US` in provider `faker.providers.barcode`.
+2025-06-08 04:17:55,396 - DEBUG - Provider `faker.providers.barcode` has been localized to `en_US`.
+2025-06-08 04:17:55,398 - DEBUG - Looking for locale `en_US` in provider `faker.providers.color`.
+2025-06-08 04:17:55,399 - DEBUG - Provider `faker.providers.color` has been localized to `en_US`.
+2025-06-08 04:17:55,401 - DEBUG - Looking for locale `en_US` in provider `faker.providers.company`.
+2025-06-08 04:17:55,402 - DEBUG - Provider `faker.providers.company` has been localized to `en_US`.
+2025-06-08 04:17:55,403 - DEBUG - Looking for locale `en_US` in provider `faker.providers.credit_card`.
+2025-06-08 04:17:55,403 - DEBUG - Provider `faker.providers.credit_card` has been localized to `en_US`.
+2025-06-08 04:17:55,405 - DEBUG - Looking for locale `en_US` in provider `faker.providers.currency`.
+2025-06-08 04:17:55,406 - DEBUG - Provider `faker.providers.currency` has been localized to `en_US`.
+2025-06-08 04:17:55,407 - DEBUG - Looking for locale `en_US` in provider `faker.providers.date_time`.
+2025-06-08 04:17:55,408 - DEBUG - Provider `faker.providers.date_time` has been localized to `en_US`.
+2025-06-08 04:17:55,409 - DEBUG - Provider `faker.providers.doi` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2025-06-08 04:17:55,409 - DEBUG - Provider `faker.providers.emoji` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2025-06-08 04:17:55,410 - DEBUG - Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2025-06-08 04:17:55,410 - DEBUG - Looking for locale `en_US` in provider `faker.providers.geo`.
+2025-06-08 04:17:55,410 - DEBUG - Provider `faker.providers.geo` has been localized to `en_US`.
+2025-06-08 04:17:55,411 - DEBUG - Looking for locale `en_US` in provider `faker.providers.internet`.
+2025-06-08 04:17:55,412 - DEBUG - Provider `faker.providers.internet` has been localized to `en_US`.
+2025-06-08 04:17:55,413 - DEBUG - Looking for locale `en_US` in provider `faker.providers.isbn`.
+2025-06-08 04:17:55,413 - DEBUG - Provider `faker.providers.isbn` has been localized to `en_US`.
+2025-06-08 04:17:55,414 - DEBUG - Looking for locale `en_US` in provider `faker.providers.job`.
+2025-06-08 04:17:55,415 - DEBUG - Provider `faker.providers.job` has been localized to `en_US`.
+2025-06-08 04:17:55,416 - DEBUG - Looking for locale `en_US` in provider `faker.providers.lorem`.
+2025-06-08 04:17:55,417 - DEBUG - Provider `faker.providers.lorem` has been localized to `en_US`.
+2025-06-08 04:17:55,417 - DEBUG - Looking for locale `en_US` in provider `faker.providers.misc`.
+2025-06-08 04:17:55,417 - DEBUG - Provider `faker.providers.misc` has been localized to `en_US`.
+2025-06-08 04:17:55,419 - DEBUG - Looking for locale `en_US` in provider `faker.providers.passport`.
+2025-06-08 04:17:55,419 - DEBUG - Provider `faker.providers.passport` has been localized to `en_US`.
+2025-06-08 04:17:55,421 - DEBUG - Looking for locale `en_US` in provider `faker.providers.person`.
+2025-06-08 04:17:55,422 - DEBUG - Provider `faker.providers.person` has been localized to `en_US`.
+2025-06-08 04:17:55,424 - DEBUG - Looking for locale `en_US` in provider `faker.providers.phone_number`.
+2025-06-08 04:17:55,426 - DEBUG - Provider `faker.providers.phone_number` has been localized to `en_US`.
+2025-06-08 04:17:55,427 - DEBUG - Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2025-06-08 04:17:55,427 - DEBUG - Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2025-06-08 04:17:55,427 - DEBUG - Provider `faker.providers.sbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2025-06-08 04:17:55,428 - DEBUG - Looking for locale `en_US` in provider `faker.providers.ssn`.
+2025-06-08 04:17:55,429 - DEBUG - Provider `faker.providers.ssn` has been localized to `en_US`.
+2025-06-08 04:17:55,430 - DEBUG - Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2025-06-08 04:17:55,430 - INFO - Created/cleared data directory: /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json
+2025-06-08 04:17:55,431 - INFO - Initializing dataset generation...
+2025-06-08 04:17:55,436 - INFO - Generated 25 categories
+2025-06-08 04:17:55,437 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/categories.json
+2025-06-08 04:17:55,622 - INFO - Generated 5000 products
+2025-06-08 04:17:55,707 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/products.json
+2025-06-08 04:17:56,718 - INFO - Generated 10000 users
+2025-06-08 04:17:56,803 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/users.json
+2025-06-08 04:17:56,803 - DEBUG - Initialized InventoryManager with 5000 products
+2025-06-08 04:17:56,804 - INFO - Generating sessions...
+2025-06-08 04:17:58,531 - INFO - Progress: 10,000/2,000,000 sessions (iteration 10,000)
+2025-06-08 04:17:58,531 - DEBUG - Memory usage: 108.34 MB
+2025-06-08 04:18:00,315 - INFO - Progress: 20,000/2,000,000 sessions (iteration 20,000)
+2025-06-08 04:18:00,315 - DEBUG - Memory usage: 160.68 MB
+2025-06-08 04:18:02,078 - INFO - Progress: 30,000/2,000,000 sessions (iteration 30,000)
+2025-06-08 04:18:02,079 - DEBUG - Memory usage: 212.75 MB
+2025-06-08 04:18:03,886 - INFO - Progress: 40,000/2,000,000 sessions (iteration 40,000)
+2025-06-08 04:18:03,886 - DEBUG - Memory usage: 264.57 MB
+2025-06-08 04:18:05,741 - INFO - Progress: 50,000/2,000,000 sessions (iteration 50,000)
+2025-06-08 04:18:05,742 - DEBUG - Memory usage: 316.91 MB
+2025-06-08 04:18:07,529 - INFO - Progress: 60,000/2,000,000 sessions (iteration 60,000)
+2025-06-08 04:18:07,529 - DEBUG - Memory usage: 368.99 MB
+2025-06-08 04:18:09,444 - INFO - Progress: 70,000/2,000,000 sessions (iteration 70,000)
+2025-06-08 04:18:09,444 - DEBUG - Memory usage: 421.07 MB
+2025-06-08 04:18:11,397 - INFO - Progress: 80,000/2,000,000 sessions (iteration 80,000)
+2025-06-08 04:18:11,398 - DEBUG - Memory usage: 473.14 MB
+2025-06-08 04:18:13,222 - INFO - Progress: 90,000/2,000,000 sessions (iteration 90,000)
+2025-06-08 04:18:13,222 - DEBUG - Memory usage: 525.39 MB
+2025-06-08 04:18:25,217 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_1.json
+2025-06-08 04:18:25,397 - DEBUG - Memory usage: 123.52 MB
+2025-06-08 04:18:25,397 - INFO - Progress: 100,000/2,000,000 sessions (iteration 100,000)
+2025-06-08 04:18:25,398 - DEBUG - Memory usage: 123.52 MB
+2025-06-08 04:18:27,301 - INFO - Progress: 110,000/2,000,000 sessions (iteration 110,000)
+2025-06-08 04:18:27,301 - DEBUG - Memory usage: 159.25 MB
+2025-06-08 04:18:29,312 - INFO - Progress: 120,000/2,000,000 sessions (iteration 120,000)
+2025-06-08 04:18:29,312 - DEBUG - Memory usage: 205.66 MB
+2025-06-08 04:18:31,235 - INFO - Progress: 130,000/2,000,000 sessions (iteration 130,000)
+2025-06-08 04:18:31,235 - DEBUG - Memory usage: 251.81 MB
+2025-06-08 04:18:33,159 - INFO - Progress: 140,000/2,000,000 sessions (iteration 140,000)
+2025-06-08 04:18:33,159 - DEBUG - Memory usage: 297.96 MB
+2025-06-08 04:18:35,140 - INFO - Progress: 150,000/2,000,000 sessions (iteration 150,000)
+2025-06-08 04:18:35,140 - DEBUG - Memory usage: 344.36 MB
+2025-06-08 04:18:37,007 - INFO - Progress: 160,000/2,000,000 sessions (iteration 160,000)
+2025-06-08 04:18:37,007 - DEBUG - Memory usage: 390.51 MB
+2025-06-08 04:18:38,993 - INFO - Progress: 170,000/2,000,000 sessions (iteration 170,000)
+2025-06-08 04:18:38,993 - DEBUG - Memory usage: 437.18 MB
+2025-06-08 04:18:40,865 - INFO - Progress: 180,000/2,000,000 sessions (iteration 180,000)
+2025-06-08 04:18:40,865 - DEBUG - Memory usage: 483.32 MB
+2025-06-08 04:18:42,891 - INFO - Progress: 190,000/2,000,000 sessions (iteration 190,000)
+2025-06-08 04:18:42,891 - DEBUG - Memory usage: 529.73 MB
+2025-06-08 04:18:54,714 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_2.json
+2025-06-08 04:18:54,900 - DEBUG - Memory usage: 124.90 MB
+2025-06-08 04:18:54,901 - INFO - Progress: 200,000/2,000,000 sessions (iteration 200,000)
+2025-06-08 04:18:54,901 - DEBUG - Memory usage: 124.90 MB
+2025-06-08 04:18:56,787 - INFO - Progress: 210,000/2,000,000 sessions (iteration 210,000)
+2025-06-08 04:18:56,788 - DEBUG - Memory usage: 160.00 MB
+2025-06-08 04:18:58,692 - INFO - Progress: 220,000/2,000,000 sessions (iteration 220,000)
+2025-06-08 04:18:58,692 - DEBUG - Memory usage: 206.40 MB
+2025-06-08 04:19:00,569 - INFO - Progress: 230,000/2,000,000 sessions (iteration 230,000)
+2025-06-08 04:19:00,569 - DEBUG - Memory usage: 252.55 MB
+2025-06-08 04:19:02,488 - INFO - Progress: 240,000/2,000,000 sessions (iteration 240,000)
+2025-06-08 04:19:02,488 - DEBUG - Memory usage: 298.96 MB
+2025-06-08 04:19:04,399 - INFO - Progress: 250,000/2,000,000 sessions (iteration 250,000)
+2025-06-08 04:19:04,399 - DEBUG - Memory usage: 345.36 MB
+2025-06-08 04:19:06,237 - INFO - Progress: 260,000/2,000,000 sessions (iteration 260,000)
+2025-06-08 04:19:06,238 - DEBUG - Memory usage: 391.51 MB
+2025-06-08 04:19:08,185 - INFO - Progress: 270,000/2,000,000 sessions (iteration 270,000)
+2025-06-08 04:19:08,185 - DEBUG - Memory usage: 437.66 MB
+2025-06-08 04:19:10,168 - INFO - Progress: 280,000/2,000,000 sessions (iteration 280,000)
+2025-06-08 04:19:10,168 - DEBUG - Memory usage: 484.07 MB
+2025-06-08 04:19:12,152 - INFO - Progress: 290,000/2,000,000 sessions (iteration 290,000)
+2025-06-08 04:19:12,152 - DEBUG - Memory usage: 530.47 MB
+2025-06-08 04:19:23,891 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_3.json
+2025-06-08 04:19:24,081 - DEBUG - Memory usage: 126.14 MB
+2025-06-08 04:19:24,081 - INFO - Progress: 300,000/2,000,000 sessions (iteration 300,000)
+2025-06-08 04:19:24,081 - DEBUG - Memory usage: 126.14 MB
+2025-06-08 04:19:25,924 - INFO - Progress: 310,000/2,000,000 sessions (iteration 310,000)
+2025-06-08 04:19:25,924 - DEBUG - Memory usage: 159.99 MB
+2025-06-08 04:19:27,836 - INFO - Progress: 320,000/2,000,000 sessions (iteration 320,000)
+2025-06-08 04:19:27,836 - DEBUG - Memory usage: 206.40 MB
+2025-06-08 04:19:29,789 - INFO - Progress: 330,000/2,000,000 sessions (iteration 330,000)
+2025-06-08 04:19:29,790 - DEBUG - Memory usage: 252.80 MB
+2025-06-08 04:19:31,713 - INFO - Progress: 340,000/2,000,000 sessions (iteration 340,000)
+2025-06-08 04:19:31,713 - DEBUG - Memory usage: 299.21 MB
+2025-06-08 04:19:33,651 - INFO - Progress: 350,000/2,000,000 sessions (iteration 350,000)
+2025-06-08 04:19:33,652 - DEBUG - Memory usage: 345.62 MB
+2025-06-08 04:19:35,478 - INFO - Progress: 360,000/2,000,000 sessions (iteration 360,000)
+2025-06-08 04:19:35,478 - DEBUG - Memory usage: 392.02 MB
+2025-06-08 04:19:37,434 - INFO - Progress: 370,000/2,000,000 sessions (iteration 370,000)
+2025-06-08 04:19:37,434 - DEBUG - Memory usage: 438.17 MB
+2025-06-08 04:19:39,262 - INFO - Progress: 380,000/2,000,000 sessions (iteration 380,000)
+2025-06-08 04:19:39,262 - DEBUG - Memory usage: 484.58 MB
+2025-06-08 04:19:41,259 - INFO - Progress: 390,000/2,000,000 sessions (iteration 390,000)
+2025-06-08 04:19:41,259 - DEBUG - Memory usage: 531.24 MB
+2025-06-08 04:19:53,219 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_4.json
+2025-06-08 04:19:53,438 - DEBUG - Memory usage: 125.01 MB
+2025-06-08 04:19:53,438 - INFO - Progress: 400,000/2,000,000 sessions (iteration 400,000)
+2025-06-08 04:19:53,439 - DEBUG - Memory usage: 125.01 MB
+2025-06-08 04:19:55,301 - INFO - Progress: 410,000/2,000,000 sessions (iteration 410,000)
+2025-06-08 04:19:55,301 - DEBUG - Memory usage: 160.12 MB
+2025-06-08 04:19:57,216 - INFO - Progress: 420,000/2,000,000 sessions (iteration 420,000)
+2025-06-08 04:19:57,216 - DEBUG - Memory usage: 206.53 MB
+2025-06-08 04:19:59,124 - INFO - Progress: 430,000/2,000,000 sessions (iteration 430,000)
+2025-06-08 04:19:59,125 - DEBUG - Memory usage: 252.68 MB
+2025-06-08 04:20:01,189 - INFO - Progress: 440,000/2,000,000 sessions (iteration 440,000)
+2025-06-08 04:20:01,189 - DEBUG - Memory usage: 299.08 MB
+2025-06-08 04:20:03,273 - INFO - Progress: 450,000/2,000,000 sessions (iteration 450,000)
+2025-06-08 04:20:03,273 - DEBUG - Memory usage: 345.23 MB
+2025-06-08 04:20:05,205 - INFO - Progress: 460,000/2,000,000 sessions (iteration 460,000)
+2025-06-08 04:20:05,205 - DEBUG - Memory usage: 391.64 MB
+2025-06-08 04:20:07,302 - INFO - Progress: 470,000/2,000,000 sessions (iteration 470,000)
+2025-06-08 04:20:07,302 - DEBUG - Memory usage: 437.79 MB
+2025-06-08 04:20:09,202 - INFO - Progress: 480,000/2,000,000 sessions (iteration 480,000)
+2025-06-08 04:20:09,202 - DEBUG - Memory usage: 483.93 MB
+2025-06-08 04:20:11,246 - INFO - Progress: 490,000/2,000,000 sessions (iteration 490,000)
+2025-06-08 04:20:11,247 - DEBUG - Memory usage: 530.34 MB
+2025-06-08 04:20:23,367 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_5.json
+2025-06-08 04:20:23,575 - DEBUG - Memory usage: 125.21 MB
+2025-06-08 04:20:23,575 - INFO - Progress: 500,000/2,000,000 sessions (iteration 500,000)
+2025-06-08 04:20:23,575 - DEBUG - Memory usage: 125.21 MB
+2025-06-08 04:20:25,532 - INFO - Progress: 510,000/2,000,000 sessions (iteration 510,000)
+2025-06-08 04:20:25,532 - DEBUG - Memory usage: 160.11 MB
+2025-06-08 04:20:27,444 - INFO - Progress: 520,000/2,000,000 sessions (iteration 520,000)
+2025-06-08 04:20:27,444 - DEBUG - Memory usage: 206.26 MB
+2025-06-08 04:20:29,350 - INFO - Progress: 530,000/2,000,000 sessions (iteration 530,000)
+2025-06-08 04:20:29,350 - DEBUG - Memory usage: 252.92 MB
+2025-06-08 04:20:31,310 - INFO - Progress: 540,000/2,000,000 sessions (iteration 540,000)
+2025-06-08 04:20:31,310 - DEBUG - Memory usage: 299.07 MB
+2025-06-08 04:20:33,350 - INFO - Progress: 550,000/2,000,000 sessions (iteration 550,000)
+2025-06-08 04:20:33,350 - DEBUG - Memory usage: 345.73 MB
+2025-06-08 04:20:35,293 - INFO - Progress: 560,000/2,000,000 sessions (iteration 560,000)
+2025-06-08 04:20:35,293 - DEBUG - Memory usage: 391.88 MB
+2025-06-08 04:20:37,302 - INFO - Progress: 570,000/2,000,000 sessions (iteration 570,000)
+2025-06-08 04:20:37,302 - DEBUG - Memory usage: 438.29 MB
+2025-06-08 04:20:39,147 - INFO - Progress: 580,000/2,000,000 sessions (iteration 580,000)
+2025-06-08 04:20:39,147 - DEBUG - Memory usage: 484.70 MB
+2025-06-08 04:20:41,234 - INFO - Progress: 590,000/2,000,000 sessions (iteration 590,000)
+2025-06-08 04:20:41,234 - DEBUG - Memory usage: 530.84 MB
+2025-06-08 04:20:53,496 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_6.json
+2025-06-08 04:20:53,684 - DEBUG - Memory usage: 125.50 MB
+2025-06-08 04:20:53,684 - INFO - Progress: 600,000/2,000,000 sessions (iteration 600,000)
+2025-06-08 04:20:53,684 - DEBUG - Memory usage: 125.50 MB
+2025-06-08 04:20:55,586 - INFO - Progress: 610,000/2,000,000 sessions (iteration 610,000)
+2025-06-08 04:20:55,587 - DEBUG - Memory usage: 160.14 MB
+2025-06-08 04:20:57,591 - INFO - Progress: 620,000/2,000,000 sessions (iteration 620,000)
+2025-06-08 04:20:57,591 - DEBUG - Memory usage: 206.54 MB
+2025-06-08 04:20:59,545 - INFO - Progress: 630,000/2,000,000 sessions (iteration 630,000)
+2025-06-08 04:20:59,545 - DEBUG - Memory usage: 252.69 MB
+2025-06-08 04:21:01,496 - INFO - Progress: 640,000/2,000,000 sessions (iteration 640,000)
+2025-06-08 04:21:01,496 - DEBUG - Memory usage: 299.36 MB
+2025-06-08 04:21:03,569 - INFO - Progress: 650,000/2,000,000 sessions (iteration 650,000)
+2025-06-08 04:21:03,569 - DEBUG - Memory usage: 345.76 MB
+2025-06-08 04:21:05,526 - INFO - Progress: 660,000/2,000,000 sessions (iteration 660,000)
+2025-06-08 04:21:05,526 - DEBUG - Memory usage: 392.43 MB
+2025-06-08 04:21:07,581 - INFO - Progress: 670,000/2,000,000 sessions (iteration 670,000)
+2025-06-08 04:21:07,581 - DEBUG - Memory usage: 438.57 MB
+2025-06-08 04:21:09,505 - INFO - Progress: 680,000/2,000,000 sessions (iteration 680,000)
+2025-06-08 04:21:09,505 - DEBUG - Memory usage: 484.98 MB
+2025-06-08 04:21:11,553 - INFO - Progress: 690,000/2,000,000 sessions (iteration 690,000)
+2025-06-08 04:21:11,553 - DEBUG - Memory usage: 531.39 MB
+2025-06-08 04:21:23,909 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_7.json
+2025-06-08 04:21:24,096 - DEBUG - Memory usage: 125.98 MB
+2025-06-08 04:21:24,096 - INFO - Progress: 700,000/2,000,000 sessions (iteration 700,000)
+2025-06-08 04:21:24,096 - DEBUG - Memory usage: 125.98 MB
+2025-06-08 04:21:26,167 - INFO - Progress: 710,000/2,000,000 sessions (iteration 710,000)
+2025-06-08 04:21:26,167 - DEBUG - Memory usage: 159.88 MB
+2025-06-08 04:21:28,355 - INFO - Progress: 720,000/2,000,000 sessions (iteration 720,000)
+2025-06-08 04:21:28,355 - DEBUG - Memory usage: 206.28 MB
+2025-06-08 04:21:30,393 - INFO - Progress: 730,000/2,000,000 sessions (iteration 730,000)
+2025-06-08 04:21:30,393 - DEBUG - Memory usage: 252.43 MB
+2025-06-08 04:21:32,409 - INFO - Progress: 740,000/2,000,000 sessions (iteration 740,000)
+2025-06-08 04:21:32,410 - DEBUG - Memory usage: 299.09 MB
+2025-06-08 04:21:34,371 - INFO - Progress: 750,000/2,000,000 sessions (iteration 750,000)
+2025-06-08 04:21:34,371 - DEBUG - Memory usage: 345.24 MB
+2025-06-08 04:21:36,274 - INFO - Progress: 760,000/2,000,000 sessions (iteration 760,000)
+2025-06-08 04:21:36,274 - DEBUG - Memory usage: 391.39 MB
+2025-06-08 04:21:38,322 - INFO - Progress: 770,000/2,000,000 sessions (iteration 770,000)
+2025-06-08 04:21:38,322 - DEBUG - Memory usage: 437.80 MB
+2025-06-08 04:21:40,206 - INFO - Progress: 780,000/2,000,000 sessions (iteration 780,000)
+2025-06-08 04:21:40,206 - DEBUG - Memory usage: 484.20 MB
+2025-06-08 04:21:42,231 - INFO - Progress: 790,000/2,000,000 sessions (iteration 790,000)
+2025-06-08 04:21:42,231 - DEBUG - Memory usage: 530.61 MB
+2025-06-08 04:21:54,751 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_8.json
+2025-06-08 04:21:54,941 - DEBUG - Memory usage: 125.23 MB
+2025-06-08 04:21:54,941 - INFO - Progress: 800,000/2,000,000 sessions (iteration 800,000)
+2025-06-08 04:21:54,941 - DEBUG - Memory usage: 125.23 MB
+2025-06-08 04:21:56,889 - INFO - Progress: 810,000/2,000,000 sessions (iteration 810,000)
+2025-06-08 04:21:56,890 - DEBUG - Memory usage: 160.09 MB
+2025-06-08 04:21:58,914 - INFO - Progress: 820,000/2,000,000 sessions (iteration 820,000)
+2025-06-08 04:21:58,914 - DEBUG - Memory usage: 206.23 MB
+2025-06-08 04:22:00,870 - INFO - Progress: 830,000/2,000,000 sessions (iteration 830,000)
+2025-06-08 04:22:00,870 - DEBUG - Memory usage: 252.38 MB
+2025-06-08 04:22:02,823 - INFO - Progress: 840,000/2,000,000 sessions (iteration 840,000)
+2025-06-08 04:22:02,824 - DEBUG - Memory usage: 298.79 MB
+2025-06-08 04:22:04,787 - INFO - Progress: 850,000/2,000,000 sessions (iteration 850,000)
+2025-06-08 04:22:04,788 - DEBUG - Memory usage: 345.20 MB
+2025-06-08 04:22:06,662 - INFO - Progress: 860,000/2,000,000 sessions (iteration 860,000)
+2025-06-08 04:22:06,662 - DEBUG - Memory usage: 391.34 MB
+2025-06-08 04:22:08,733 - INFO - Progress: 870,000/2,000,000 sessions (iteration 870,000)
+2025-06-08 04:22:08,734 - DEBUG - Memory usage: 437.49 MB
+2025-06-08 04:22:10,694 - INFO - Progress: 880,000/2,000,000 sessions (iteration 880,000)
+2025-06-08 04:22:10,695 - DEBUG - Memory usage: 483.90 MB
+2025-06-08 04:22:12,768 - INFO - Progress: 890,000/2,000,000 sessions (iteration 890,000)
+2025-06-08 04:22:12,769 - DEBUG - Memory usage: 530.05 MB
+2025-06-08 04:22:25,159 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_9.json
+2025-06-08 04:22:25,346 - DEBUG - Memory usage: 125.74 MB
+2025-06-08 04:22:25,346 - INFO - Progress: 900,000/2,000,000 sessions (iteration 900,000)
+2025-06-08 04:22:25,346 - DEBUG - Memory usage: 125.74 MB
+2025-06-08 04:22:27,252 - INFO - Progress: 910,000/2,000,000 sessions (iteration 910,000)
+2025-06-08 04:22:27,252 - DEBUG - Memory usage: 160.07 MB
+2025-06-08 04:22:29,224 - INFO - Progress: 920,000/2,000,000 sessions (iteration 920,000)
+2025-06-08 04:22:29,224 - DEBUG - Memory usage: 206.48 MB
+2025-06-08 04:22:31,176 - INFO - Progress: 930,000/2,000,000 sessions (iteration 930,000)
+2025-06-08 04:22:31,176 - DEBUG - Memory usage: 252.89 MB
+2025-06-08 04:22:33,162 - INFO - Progress: 940,000/2,000,000 sessions (iteration 940,000)
+2025-06-08 04:22:33,163 - DEBUG - Memory usage: 299.29 MB
+2025-06-08 04:22:35,154 - INFO - Progress: 950,000/2,000,000 sessions (iteration 950,000)
+2025-06-08 04:22:35,154 - DEBUG - Memory usage: 345.70 MB
+2025-06-08 04:22:37,008 - INFO - Progress: 960,000/2,000,000 sessions (iteration 960,000)
+2025-06-08 04:22:37,008 - DEBUG - Memory usage: 392.36 MB
+2025-06-08 04:22:39,058 - INFO - Progress: 970,000/2,000,000 sessions (iteration 970,000)
+2025-06-08 04:22:39,058 - DEBUG - Memory usage: 438.51 MB
+2025-06-08 04:22:40,916 - INFO - Progress: 980,000/2,000,000 sessions (iteration 980,000)
+2025-06-08 04:22:40,916 - DEBUG - Memory usage: 484.66 MB
+2025-06-08 04:22:42,924 - INFO - Progress: 990,000/2,000,000 sessions (iteration 990,000)
+2025-06-08 04:22:42,924 - DEBUG - Memory usage: 531.07 MB
+2025-06-08 04:22:55,079 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_10.json
+2025-06-08 04:22:55,262 - DEBUG - Memory usage: 126.86 MB
+2025-06-08 04:22:55,262 - INFO - Progress: 1,000,000/2,000,000 sessions (iteration 1,000,000)
+2025-06-08 04:22:55,262 - DEBUG - Memory usage: 126.86 MB
+2025-06-08 04:22:57,169 - INFO - Progress: 1,010,000/2,000,000 sessions (iteration 1,010,000)
+2025-06-08 04:22:57,170 - DEBUG - Memory usage: 160.17 MB
+2025-06-08 04:22:59,080 - INFO - Progress: 1,020,000/2,000,000 sessions (iteration 1,020,000)
+2025-06-08 04:22:59,080 - DEBUG - Memory usage: 206.57 MB
+2025-06-08 04:23:00,979 - INFO - Progress: 1,030,000/2,000,000 sessions (iteration 1,030,000)
+2025-06-08 04:23:00,979 - DEBUG - Memory usage: 252.98 MB
+2025-06-08 04:23:02,884 - INFO - Progress: 1,040,000/2,000,000 sessions (iteration 1,040,000)
+2025-06-08 04:23:02,884 - DEBUG - Memory usage: 299.13 MB
+2025-06-08 04:23:04,826 - INFO - Progress: 1,050,000/2,000,000 sessions (iteration 1,050,000)
+2025-06-08 04:23:04,826 - DEBUG - Memory usage: 345.54 MB
+2025-06-08 04:23:06,674 - INFO - Progress: 1,060,000/2,000,000 sessions (iteration 1,060,000)
+2025-06-08 04:23:06,674 - DEBUG - Memory usage: 391.68 MB
+2025-06-08 04:23:08,613 - INFO - Progress: 1,070,000/2,000,000 sessions (iteration 1,070,000)
+2025-06-08 04:23:08,614 - DEBUG - Memory usage: 438.09 MB
+2025-06-08 04:23:10,473 - INFO - Progress: 1,080,000/2,000,000 sessions (iteration 1,080,000)
+2025-06-08 04:23:10,474 - DEBUG - Memory usage: 484.75 MB
+2025-06-08 04:23:12,482 - INFO - Progress: 1,090,000/2,000,000 sessions (iteration 1,090,000)
+2025-06-08 04:23:12,483 - DEBUG - Memory usage: 531.16 MB
+2025-06-08 04:23:24,525 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_11.json
+2025-06-08 04:23:24,711 - DEBUG - Memory usage: 126.84 MB
+2025-06-08 04:23:24,711 - INFO - Progress: 1,100,000/2,000,000 sessions (iteration 1,100,000)
+2025-06-08 04:23:24,711 - DEBUG - Memory usage: 126.84 MB
+2025-06-08 04:23:26,578 - INFO - Progress: 1,110,000/2,000,000 sessions (iteration 1,110,000)
+2025-06-08 04:23:26,578 - DEBUG - Memory usage: 159.89 MB
+2025-06-08 04:23:28,465 - INFO - Progress: 1,120,000/2,000,000 sessions (iteration 1,120,000)
+2025-06-08 04:23:28,465 - DEBUG - Memory usage: 206.29 MB
+2025-06-08 04:23:30,448 - INFO - Progress: 1,130,000/2,000,000 sessions (iteration 1,130,000)
+2025-06-08 04:23:30,448 - DEBUG - Memory usage: 252.70 MB
+2025-06-08 04:23:32,370 - INFO - Progress: 1,140,000/2,000,000 sessions (iteration 1,140,000)
+2025-06-08 04:23:32,370 - DEBUG - Memory usage: 299.11 MB
+2025-06-08 04:23:34,311 - INFO - Progress: 1,150,000/2,000,000 sessions (iteration 1,150,000)
+2025-06-08 04:23:34,311 - DEBUG - Memory usage: 345.51 MB
+2025-06-08 04:23:36,177 - INFO - Progress: 1,160,000/2,000,000 sessions (iteration 1,160,000)
+2025-06-08 04:23:36,177 - DEBUG - Memory usage: 391.66 MB
+2025-06-08 04:23:38,159 - INFO - Progress: 1,170,000/2,000,000 sessions (iteration 1,170,000)
+2025-06-08 04:23:38,160 - DEBUG - Memory usage: 438.32 MB
+2025-06-08 04:23:40,010 - INFO - Progress: 1,180,000/2,000,000 sessions (iteration 1,180,000)
+2025-06-08 04:23:40,010 - DEBUG - Memory usage: 484.47 MB
+2025-06-08 04:23:42,020 - INFO - Progress: 1,190,000/2,000,000 sessions (iteration 1,190,000)
+2025-06-08 04:23:42,021 - DEBUG - Memory usage: 530.88 MB
+2025-06-08 04:23:54,127 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_12.json
+2025-06-08 04:23:54,312 - DEBUG - Memory usage: 129.51 MB
+2025-06-08 04:23:54,313 - INFO - Progress: 1,200,000/2,000,000 sessions (iteration 1,200,000)
+2025-06-08 04:23:54,313 - DEBUG - Memory usage: 129.51 MB
+2025-06-08 04:23:56,237 - INFO - Progress: 1,210,000/2,000,000 sessions (iteration 1,210,000)
+2025-06-08 04:23:56,237 - DEBUG - Memory usage: 159.98 MB
+2025-06-08 04:23:58,175 - INFO - Progress: 1,220,000/2,000,000 sessions (iteration 1,220,000)
+2025-06-08 04:23:58,175 - DEBUG - Memory usage: 206.12 MB
+2025-06-08 04:24:00,127 - INFO - Progress: 1,230,000/2,000,000 sessions (iteration 1,230,000)
+2025-06-08 04:24:00,127 - DEBUG - Memory usage: 252.53 MB
+2025-06-08 04:24:02,168 - INFO - Progress: 1,240,000/2,000,000 sessions (iteration 1,240,000)
+2025-06-08 04:24:02,169 - DEBUG - Memory usage: 298.68 MB
+2025-06-08 04:24:04,142 - INFO - Progress: 1,250,000/2,000,000 sessions (iteration 1,250,000)
+2025-06-08 04:24:04,142 - DEBUG - Memory usage: 345.34 MB
+2025-06-08 04:24:06,058 - INFO - Progress: 1,260,000/2,000,000 sessions (iteration 1,260,000)
+2025-06-08 04:24:06,059 - DEBUG - Memory usage: 391.75 MB
+2025-06-08 04:24:08,242 - INFO - Progress: 1,270,000/2,000,000 sessions (iteration 1,270,000)
+2025-06-08 04:24:08,243 - DEBUG - Memory usage: 438.16 MB
+2025-06-08 04:24:10,254 - INFO - Progress: 1,280,000/2,000,000 sessions (iteration 1,280,000)
+2025-06-08 04:24:10,254 - DEBUG - Memory usage: 484.30 MB
+2025-06-08 04:24:12,315 - INFO - Progress: 1,290,000/2,000,000 sessions (iteration 1,290,000)
+2025-06-08 04:24:12,316 - DEBUG - Memory usage: 530.20 MB
+2025-06-08 04:24:25,055 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_13.json
+2025-06-08 04:24:25,264 - DEBUG - Memory usage: 128.03 MB
+2025-06-08 04:24:25,264 - INFO - Progress: 1,300,000/2,000,000 sessions (iteration 1,300,000)
+2025-06-08 04:24:25,264 - DEBUG - Memory usage: 128.03 MB
+2025-06-08 04:24:27,354 - INFO - Progress: 1,310,000/2,000,000 sessions (iteration 1,310,000)
+2025-06-08 04:24:27,354 - DEBUG - Memory usage: 159.78 MB
+2025-06-08 04:24:29,500 - INFO - Progress: 1,320,000/2,000,000 sessions (iteration 1,320,000)
+2025-06-08 04:24:29,500 - DEBUG - Memory usage: 206.19 MB
+2025-06-08 04:24:31,568 - INFO - Progress: 1,330,000/2,000,000 sessions (iteration 1,330,000)
+2025-06-08 04:24:31,568 - DEBUG - Memory usage: 252.34 MB
+2025-06-08 04:24:33,694 - INFO - Progress: 1,340,000/2,000,000 sessions (iteration 1,340,000)
+2025-06-08 04:24:33,694 - DEBUG - Memory usage: 298.74 MB
+2025-06-08 04:24:35,891 - INFO - Progress: 1,350,000/2,000,000 sessions (iteration 1,350,000)
+2025-06-08 04:24:35,891 - DEBUG - Memory usage: 345.15 MB
+2025-06-08 04:24:38,027 - INFO - Progress: 1,360,000/2,000,000 sessions (iteration 1,360,000)
+2025-06-08 04:24:38,027 - DEBUG - Memory usage: 391.55 MB
+2025-06-08 04:24:40,260 - INFO - Progress: 1,370,000/2,000,000 sessions (iteration 1,370,000)
+2025-06-08 04:24:40,260 - DEBUG - Memory usage: 438.22 MB
+2025-06-08 04:24:42,330 - INFO - Progress: 1,380,000/2,000,000 sessions (iteration 1,380,000)
+2025-06-08 04:24:42,331 - DEBUG - Memory usage: 484.62 MB
+2025-06-08 04:24:44,516 - INFO - Progress: 1,390,000/2,000,000 sessions (iteration 1,390,000)
+2025-06-08 04:24:44,517 - DEBUG - Memory usage: 531.03 MB
+2025-06-08 04:24:57,828 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_14.json
+2025-06-08 04:24:58,034 - DEBUG - Memory usage: 130.64 MB
+2025-06-08 04:24:58,034 - INFO - Progress: 1,400,000/2,000,000 sessions (iteration 1,400,000)
+2025-06-08 04:24:58,035 - DEBUG - Memory usage: 130.64 MB
+2025-06-08 04:25:00,071 - INFO - Progress: 1,410,000/2,000,000 sessions (iteration 1,410,000)
+2025-06-08 04:25:00,071 - DEBUG - Memory usage: 159.88 MB
+2025-06-08 04:25:02,196 - INFO - Progress: 1,420,000/2,000,000 sessions (iteration 1,420,000)
+2025-06-08 04:25:02,196 - DEBUG - Memory usage: 206.28 MB
+2025-06-08 04:25:04,346 - INFO - Progress: 1,430,000/2,000,000 sessions (iteration 1,430,000)
+2025-06-08 04:25:04,346 - DEBUG - Memory usage: 252.69 MB
+2025-06-08 04:25:06,520 - INFO - Progress: 1,440,000/2,000,000 sessions (iteration 1,440,000)
+2025-06-08 04:25:06,520 - DEBUG - Memory usage: 299.09 MB
+2025-06-08 04:25:08,643 - INFO - Progress: 1,450,000/2,000,000 sessions (iteration 1,450,000)
+2025-06-08 04:25:08,643 - DEBUG - Memory usage: 345.50 MB
+2025-06-08 04:25:10,695 - INFO - Progress: 1,460,000/2,000,000 sessions (iteration 1,460,000)
+2025-06-08 04:25:10,695 - DEBUG - Memory usage: 391.91 MB
+2025-06-08 04:25:12,792 - INFO - Progress: 1,470,000/2,000,000 sessions (iteration 1,470,000)
+2025-06-08 04:25:12,792 - DEBUG - Memory usage: 438.05 MB
+2025-06-08 04:25:14,753 - INFO - Progress: 1,480,000/2,000,000 sessions (iteration 1,480,000)
+2025-06-08 04:25:14,754 - DEBUG - Memory usage: 484.20 MB
+2025-06-08 04:25:16,866 - INFO - Progress: 1,490,000/2,000,000 sessions (iteration 1,490,000)
+2025-06-08 04:25:16,867 - DEBUG - Memory usage: 530.61 MB
+2025-06-08 04:25:29,840 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_15.json
+2025-06-08 04:25:30,030 - DEBUG - Memory usage: 130.24 MB
+2025-06-08 04:25:30,030 - INFO - Progress: 1,500,000/2,000,000 sessions (iteration 1,500,000)
+2025-06-08 04:25:30,030 - DEBUG - Memory usage: 130.24 MB
+2025-06-08 04:25:32,003 - INFO - Progress: 1,510,000/2,000,000 sessions (iteration 1,510,000)
+2025-06-08 04:25:32,004 - DEBUG - Memory usage: 160.19 MB
+2025-06-08 04:25:34,068 - INFO - Progress: 1,520,000/2,000,000 sessions (iteration 1,520,000)
+2025-06-08 04:25:34,068 - DEBUG - Memory usage: 206.60 MB
+2025-06-08 04:25:36,092 - INFO - Progress: 1,530,000/2,000,000 sessions (iteration 1,530,000)
+2025-06-08 04:25:36,092 - DEBUG - Memory usage: 252.75 MB
+2025-06-08 04:25:38,131 - INFO - Progress: 1,540,000/2,000,000 sessions (iteration 1,540,000)
+2025-06-08 04:25:38,131 - DEBUG - Memory usage: 299.41 MB
+2025-06-08 04:25:40,176 - INFO - Progress: 1,550,000/2,000,000 sessions (iteration 1,550,000)
+2025-06-08 04:25:40,176 - DEBUG - Memory usage: 345.56 MB
+2025-06-08 04:25:42,125 - INFO - Progress: 1,560,000/2,000,000 sessions (iteration 1,560,000)
+2025-06-08 04:25:42,126 - DEBUG - Memory usage: 391.96 MB
+2025-06-08 04:25:44,211 - INFO - Progress: 1,570,000/2,000,000 sessions (iteration 1,570,000)
+2025-06-08 04:25:44,211 - DEBUG - Memory usage: 438.37 MB
+2025-06-08 04:25:46,191 - INFO - Progress: 1,580,000/2,000,000 sessions (iteration 1,580,000)
+2025-06-08 04:25:46,191 - DEBUG - Memory usage: 484.78 MB
+2025-06-08 04:25:48,300 - INFO - Progress: 1,590,000/2,000,000 sessions (iteration 1,590,000)
+2025-06-08 04:25:48,300 - DEBUG - Memory usage: 531.18 MB
+2025-06-08 04:26:00,838 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_16.json
+2025-06-08 04:26:01,025 - DEBUG - Memory usage: 128.79 MB
+2025-06-08 04:26:01,025 - INFO - Progress: 1,600,000/2,000,000 sessions (iteration 1,600,000)
+2025-06-08 04:26:01,025 - DEBUG - Memory usage: 128.79 MB
+2025-06-08 04:26:02,955 - INFO - Progress: 1,610,000/2,000,000 sessions (iteration 1,610,000)
+2025-06-08 04:26:02,955 - DEBUG - Memory usage: 159.98 MB
+2025-06-08 04:26:04,934 - INFO - Progress: 1,620,000/2,000,000 sessions (iteration 1,620,000)
+2025-06-08 04:26:04,935 - DEBUG - Memory usage: 206.39 MB
+2025-06-08 04:26:06,870 - INFO - Progress: 1,630,000/2,000,000 sessions (iteration 1,630,000)
+2025-06-08 04:26:06,871 - DEBUG - Memory usage: 252.80 MB
+2025-06-08 04:26:08,873 - INFO - Progress: 1,640,000/2,000,000 sessions (iteration 1,640,000)
+2025-06-08 04:26:08,873 - DEBUG - Memory usage: 298.95 MB
+2025-06-08 04:26:10,872 - INFO - Progress: 1,650,000/2,000,000 sessions (iteration 1,650,000)
+2025-06-08 04:26:10,873 - DEBUG - Memory usage: 345.35 MB
+2025-06-08 04:26:12,821 - INFO - Progress: 1,660,000/2,000,000 sessions (iteration 1,660,000)
+2025-06-08 04:26:12,822 - DEBUG - Memory usage: 391.76 MB
+2025-06-08 04:26:14,856 - INFO - Progress: 1,670,000/2,000,000 sessions (iteration 1,670,000)
+2025-06-08 04:26:14,857 - DEBUG - Memory usage: 438.42 MB
+2025-06-08 04:26:16,746 - INFO - Progress: 1,680,000/2,000,000 sessions (iteration 1,680,000)
+2025-06-08 04:26:16,747 - DEBUG - Memory usage: 484.83 MB
+2025-06-08 04:26:18,780 - INFO - Progress: 1,690,000/2,000,000 sessions (iteration 1,690,000)
+2025-06-08 04:26:18,780 - DEBUG - Memory usage: 531.23 MB
+2025-06-08 04:26:31,123 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_17.json
+2025-06-08 04:26:31,312 - DEBUG - Memory usage: 130.85 MB
+2025-06-08 04:26:31,313 - INFO - Progress: 1,700,000/2,000,000 sessions (iteration 1,700,000)
+2025-06-08 04:26:31,313 - DEBUG - Memory usage: 130.85 MB
+2025-06-08 04:26:33,221 - INFO - Progress: 1,710,000/2,000,000 sessions (iteration 1,710,000)
+2025-06-08 04:26:33,221 - DEBUG - Memory usage: 159.78 MB
+2025-06-08 04:26:35,258 - INFO - Progress: 1,720,000/2,000,000 sessions (iteration 1,720,000)
+2025-06-08 04:26:35,259 - DEBUG - Memory usage: 206.44 MB
+2025-06-08 04:26:37,234 - INFO - Progress: 1,730,000/2,000,000 sessions (iteration 1,730,000)
+2025-06-08 04:26:37,234 - DEBUG - Memory usage: 252.59 MB
+2025-06-08 04:26:39,164 - INFO - Progress: 1,740,000/2,000,000 sessions (iteration 1,740,000)
+2025-06-08 04:26:39,165 - DEBUG - Memory usage: 299.00 MB
+2025-06-08 04:26:41,205 - INFO - Progress: 1,750,000/2,000,000 sessions (iteration 1,750,000)
+2025-06-08 04:26:41,205 - DEBUG - Memory usage: 345.14 MB
+2025-06-08 04:26:43,065 - INFO - Progress: 1,760,000/2,000,000 sessions (iteration 1,760,000)
+2025-06-08 04:26:43,066 - DEBUG - Memory usage: 391.29 MB
+2025-06-08 04:26:45,026 - INFO - Progress: 1,770,000/2,000,000 sessions (iteration 1,770,000)
+2025-06-08 04:26:45,026 - DEBUG - Memory usage: 437.70 MB
+2025-06-08 04:26:46,888 - INFO - Progress: 1,780,000/2,000,000 sessions (iteration 1,780,000)
+2025-06-08 04:26:46,888 - DEBUG - Memory usage: 484.11 MB
+2025-06-08 04:26:48,919 - INFO - Progress: 1,790,000/2,000,000 sessions (iteration 1,790,000)
+2025-06-08 04:26:48,919 - DEBUG - Memory usage: 530.25 MB
+2025-06-08 04:27:01,108 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_18.json
+2025-06-08 04:27:01,295 - DEBUG - Memory usage: 130.12 MB
+2025-06-08 04:27:01,295 - INFO - Progress: 1,800,000/2,000,000 sessions (iteration 1,800,000)
+2025-06-08 04:27:01,295 - DEBUG - Memory usage: 130.12 MB
+2025-06-08 04:27:03,206 - INFO - Progress: 1,810,000/2,000,000 sessions (iteration 1,810,000)
+2025-06-08 04:27:03,206 - DEBUG - Memory usage: 160.39 MB
+2025-06-08 04:27:05,153 - INFO - Progress: 1,820,000/2,000,000 sessions (iteration 1,820,000)
+2025-06-08 04:27:05,153 - DEBUG - Memory usage: 206.54 MB
+2025-06-08 04:27:07,083 - INFO - Progress: 1,830,000/2,000,000 sessions (iteration 1,830,000)
+2025-06-08 04:27:07,083 - DEBUG - Memory usage: 252.68 MB
+2025-06-08 04:27:09,054 - INFO - Progress: 1,840,000/2,000,000 sessions (iteration 1,840,000)
+2025-06-08 04:27:09,054 - DEBUG - Memory usage: 299.35 MB
+2025-06-08 04:27:11,027 - INFO - Progress: 1,850,000/2,000,000 sessions (iteration 1,850,000)
+2025-06-08 04:27:11,028 - DEBUG - Memory usage: 345.75 MB
+2025-06-08 04:27:12,917 - INFO - Progress: 1,860,000/2,000,000 sessions (iteration 1,860,000)
+2025-06-08 04:27:12,917 - DEBUG - Memory usage: 392.16 MB
+2025-06-08 04:27:14,932 - INFO - Progress: 1,870,000/2,000,000 sessions (iteration 1,870,000)
+2025-06-08 04:27:14,932 - DEBUG - Memory usage: 438.57 MB
+2025-06-08 04:27:16,876 - INFO - Progress: 1,880,000/2,000,000 sessions (iteration 1,880,000)
+2025-06-08 04:27:16,876 - DEBUG - Memory usage: 484.97 MB
+2025-06-08 04:27:18,907 - INFO - Progress: 1,890,000/2,000,000 sessions (iteration 1,890,000)
+2025-06-08 04:27:18,908 - DEBUG - Memory usage: 531.38 MB
+2025-06-08 04:27:31,242 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_19.json
+2025-06-08 04:27:31,431 - DEBUG - Memory usage: 131.06 MB
+2025-06-08 04:27:31,431 - INFO - Progress: 1,900,000/2,000,000 sessions (iteration 1,900,000)
+2025-06-08 04:27:31,432 - DEBUG - Memory usage: 131.06 MB
+2025-06-08 04:27:33,315 - INFO - Progress: 1,910,000/2,000,000 sessions (iteration 1,910,000)
+2025-06-08 04:27:33,315 - DEBUG - Memory usage: 159.83 MB
+2025-06-08 04:27:35,347 - INFO - Progress: 1,920,000/2,000,000 sessions (iteration 1,920,000)
+2025-06-08 04:27:35,347 - DEBUG - Memory usage: 206.24 MB
+2025-06-08 04:27:37,286 - INFO - Progress: 1,930,000/2,000,000 sessions (iteration 1,930,000)
+2025-06-08 04:27:37,286 - DEBUG - Memory usage: 252.39 MB
+2025-06-08 04:27:39,244 - INFO - Progress: 1,940,000/2,000,000 sessions (iteration 1,940,000)
+2025-06-08 04:27:39,244 - DEBUG - Memory usage: 298.54 MB
+2025-06-08 04:27:41,237 - INFO - Progress: 1,950,000/2,000,000 sessions (iteration 1,950,000)
+2025-06-08 04:27:41,238 - DEBUG - Memory usage: 344.94 MB
+2025-06-08 04:27:43,125 - INFO - Progress: 1,960,000/2,000,000 sessions (iteration 1,960,000)
+2025-06-08 04:27:43,125 - DEBUG - Memory usage: 391.09 MB
+2025-06-08 04:27:45,150 - INFO - Progress: 1,970,000/2,000,000 sessions (iteration 1,970,000)
+2025-06-08 04:27:45,150 - DEBUG - Memory usage: 436.98 MB
+2025-06-08 04:27:47,022 - INFO - Progress: 1,980,000/2,000,000 sessions (iteration 1,980,000)
+2025-06-08 04:27:47,022 - DEBUG - Memory usage: 483.39 MB
+2025-06-08 04:27:49,073 - INFO - Progress: 1,990,000/2,000,000 sessions (iteration 1,990,000)
+2025-06-08 04:27:49,074 - DEBUG - Memory usage: 529.79 MB
+2025-06-08 04:28:01,509 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/sessions_20.json
+2025-06-08 04:28:01,696 - DEBUG - Memory usage: 129.45 MB
+2025-06-08 04:28:01,696 - INFO - Progress: 2,000,000/2,000,000 sessions (iteration 2,000,000)
+2025-06-08 04:28:01,696 - DEBUG - Memory usage: 129.45 MB
+2025-06-08 04:28:01,696 - INFO - Generating transactions...
+2025-06-08 04:28:01,697 - INFO - Initialized /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:28:04,549 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:28:04,761 - DEBUG - Memory usage: 788.04 MB
+2025-06-08 04:28:05,412 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:28:05,630 - DEBUG - Memory usage: 813.04 MB
+2025-06-08 04:28:05,636 - INFO - Progress: 20,306/500,000 transactions (iteration 0)
+2025-06-08 04:28:05,636 - DEBUG - Memory usage: 813.04 MB
+2025-06-08 04:28:09,494 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:28:09,717 - DEBUG - Memory usage: 1202.17 MB
+2025-06-08 04:28:10,906 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:28:11,138 - DEBUG - Memory usage: 1202.19 MB
+2025-06-08 04:28:11,151 - INFO - Progress: 40,693/500,000 transactions (iteration 0)
+2025-06-08 04:28:11,152 - DEBUG - Memory usage: 1202.19 MB
+2025-06-08 04:28:15,409 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:28:15,661 - DEBUG - Memory usage: 1371.59 MB
+2025-06-08 04:28:17,439 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:28:17,697 - DEBUG - Memory usage: 1371.85 MB
+2025-06-08 04:28:17,718 - INFO - Progress: 61,016/500,000 transactions (iteration 0)
+2025-06-08 04:28:17,719 - DEBUG - Memory usage: 1371.85 MB
+2025-06-08 04:28:22,578 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:28:22,841 - DEBUG - Memory usage: 1583.66 MB
+2025-06-08 04:28:25,473 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:28:25,731 - DEBUG - Memory usage: 1583.66 MB
+2025-06-08 04:28:25,750 - INFO - Progress: 81,455/500,000 transactions (iteration 0)
+2025-06-08 04:28:25,750 - DEBUG - Memory usage: 1583.66 MB
+2025-06-08 04:28:31,437 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:28:31,717 - DEBUG - Memory usage: 1612.88 MB
+2025-06-08 04:28:35,024 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:28:35,322 - DEBUG - Memory usage: 1612.89 MB
+2025-06-08 04:28:35,349 - INFO - Progress: 101,582/500,000 transactions (iteration 0)
+2025-06-08 04:28:35,349 - DEBUG - Memory usage: 1612.89 MB
+2025-06-08 04:28:41,537 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:28:41,851 - DEBUG - Memory usage: 1642.46 MB
+2025-06-08 04:28:45,816 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:28:46,129 - DEBUG - Memory usage: 1642.97 MB
+2025-06-08 04:28:46,161 - INFO - Progress: 121,891/500,000 transactions (iteration 0)
+2025-06-08 04:28:46,162 - DEBUG - Memory usage: 1642.97 MB
+2025-06-08 04:28:52,981 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:28:53,309 - DEBUG - Memory usage: 1673.24 MB
+2025-06-08 04:28:57,840 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:28:58,192 - DEBUG - Memory usage: 1671.24 MB
+2025-06-08 04:28:58,229 - INFO - Progress: 142,274/500,000 transactions (iteration 0)
+2025-06-08 04:28:58,229 - DEBUG - Memory usage: 1671.24 MB
+2025-06-08 04:29:05,831 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:29:06,176 - DEBUG - Memory usage: 1703.30 MB
+2025-06-08 04:29:11,203 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:29:11,565 - DEBUG - Memory usage: 1682.30 MB
+2025-06-08 04:29:11,608 - INFO - Progress: 162,589/500,000 transactions (iteration 0)
+2025-06-08 04:29:11,609 - DEBUG - Memory usage: 1682.30 MB
+2025-06-08 04:29:19,538 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:29:19,922 - DEBUG - Memory usage: 1733.09 MB
+2025-06-08 04:29:25,508 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:29:25,866 - DEBUG - Memory usage: 1706.09 MB
+2025-06-08 04:29:25,912 - INFO - Progress: 183,006/500,000 transactions (iteration 0)
+2025-06-08 04:29:25,912 - DEBUG - Memory usage: 1706.09 MB
+2025-06-08 04:29:35,096 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:29:35,478 - DEBUG - Memory usage: 1756.69 MB
+2025-06-08 04:29:41,819 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:29:42,204 - DEBUG - Memory usage: 1716.91 MB
+2025-06-08 04:29:42,250 - INFO - Progress: 203,307/500,000 transactions (iteration 0)
+2025-06-08 04:29:42,251 - DEBUG - Memory usage: 1716.91 MB
+2025-06-08 04:29:51,310 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:29:51,724 - DEBUG - Memory usage: 1792.79 MB
+2025-06-08 04:29:58,449 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:29:58,872 - DEBUG - Memory usage: 1746.17 MB
+2025-06-08 04:29:58,931 - INFO - Progress: 223,697/500,000 transactions (iteration 0)
+2025-06-08 04:29:58,931 - DEBUG - Memory usage: 1746.17 MB
+2025-06-08 04:30:08,867 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:30:09,283 - DEBUG - Memory usage: 1823.28 MB
+2025-06-08 04:30:16,515 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:30:16,957 - DEBUG - Memory usage: 1767.75 MB
+2025-06-08 04:30:17,018 - INFO - Progress: 243,820/500,000 transactions (iteration 0)
+2025-06-08 04:30:17,019 - DEBUG - Memory usage: 1767.75 MB
+2025-06-08 04:30:27,326 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:30:27,771 - DEBUG - Memory usage: 1850.89 MB
+2025-06-08 04:30:36,409 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:30:36,866 - DEBUG - Memory usage: 1792.53 MB
+2025-06-08 04:30:36,929 - INFO - Progress: 264,044/500,000 transactions (iteration 0)
+2025-06-08 04:30:36,929 - DEBUG - Memory usage: 1792.53 MB
+2025-06-08 04:30:47,904 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:30:48,375 - DEBUG - Memory usage: 1880.69 MB
+2025-06-08 04:30:57,504 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:30:57,985 - DEBUG - Memory usage: 1811.42 MB
+2025-06-08 04:30:58,050 - INFO - Progress: 284,282/500,000 transactions (iteration 0)
+2025-06-08 04:30:58,051 - DEBUG - Memory usage: 1811.42 MB
+2025-06-08 04:31:09,714 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:31:10,209 - DEBUG - Memory usage: 1912.19 MB
+2025-06-08 04:31:19,783 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:31:20,267 - DEBUG - Memory usage: 1826.27 MB
+2025-06-08 04:31:20,333 - INFO - Progress: 304,622/500,000 transactions (iteration 0)
+2025-06-08 04:31:20,333 - DEBUG - Memory usage: 1826.27 MB
+2025-06-08 04:31:34,884 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:31:35,452 - DEBUG - Memory usage: 1942.27 MB
+2025-06-08 04:31:46,275 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:31:46,873 - DEBUG - Memory usage: 1842.49 MB
+2025-06-08 04:31:46,953 - INFO - Progress: 324,926/500,000 transactions (iteration 0)
+2025-06-08 04:31:46,954 - DEBUG - Memory usage: 1842.49 MB
+2025-06-08 04:32:00,450 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:32:01,196 - DEBUG - Memory usage: 1971.48 MB
+2025-06-08 04:32:12,981 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:32:13,482 - DEBUG - Memory usage: 1858.00 MB
+2025-06-08 04:32:13,560 - INFO - Progress: 345,067/500,000 transactions (iteration 0)
+2025-06-08 04:32:13,560 - DEBUG - Memory usage: 1858.00 MB
+2025-06-08 04:32:28,608 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:32:29,150 - DEBUG - Memory usage: 2002.32 MB
+2025-06-08 04:32:41,964 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:32:42,597 - DEBUG - Memory usage: 1876.94 MB
+2025-06-08 04:32:42,682 - INFO - Progress: 365,360/500,000 transactions (iteration 0)
+2025-06-08 04:32:42,683 - DEBUG - Memory usage: 1876.94 MB
+2025-06-08 04:32:57,685 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:32:58,322 - DEBUG - Memory usage: 2031.83 MB
+2025-06-08 04:33:10,927 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:33:11,578 - DEBUG - Memory usage: 1891.80 MB
+2025-06-08 04:33:11,675 - INFO - Progress: 385,770/500,000 transactions (iteration 0)
+2025-06-08 04:33:11,675 - DEBUG - Memory usage: 1891.80 MB
+2025-06-08 04:33:27,192 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:33:27,836 - DEBUG - Memory usage: 2063.36 MB
+2025-06-08 04:33:41,358 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:33:41,915 - DEBUG - Memory usage: 1932.77 MB
+2025-06-08 04:33:41,996 - INFO - Progress: 406,107/500,000 transactions (iteration 0)
+2025-06-08 04:33:41,997 - DEBUG - Memory usage: 1932.77 MB
+2025-06-08 04:33:42,102 - INFO - Progress: 408,096/500,000 transactions (iteration 10,000)
+2025-06-08 04:33:42,102 - DEBUG - Memory usage: 1932.77 MB
+2025-06-08 04:33:55,787 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:33:56,395 - DEBUG - Memory usage: 2021.56 MB
+2025-06-08 04:33:56,406 - INFO - Progress: 410,106/500,000 transactions (iteration 20,000)
+2025-06-08 04:33:56,406 - DEBUG - Memory usage: 2021.56 MB
+2025-06-08 04:33:56,521 - INFO - Progress: 412,195/500,000 transactions (iteration 30,000)
+2025-06-08 04:33:56,522 - DEBUG - Memory usage: 2021.56 MB
+2025-06-08 04:33:56,616 - INFO - Progress: 414,144/500,000 transactions (iteration 40,000)
+2025-06-08 04:33:56,617 - DEBUG - Memory usage: 2021.56 MB
+2025-06-08 04:33:56,717 - INFO - Progress: 416,142/500,000 transactions (iteration 50,000)
+2025-06-08 04:33:56,718 - DEBUG - Memory usage: 2021.56 MB
+2025-06-08 04:33:56,816 - INFO - Progress: 418,135/500,000 transactions (iteration 60,000)
+2025-06-08 04:33:56,816 - DEBUG - Memory usage: 2021.56 MB
+2025-06-08 04:34:10,805 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:34:11,470 - DEBUG - Memory usage: 1968.00 MB
+2025-06-08 04:34:11,484 - INFO - Progress: 420,125/500,000 transactions (iteration 70,000)
+2025-06-08 04:34:11,484 - DEBUG - Memory usage: 1968.00 MB
+2025-06-08 04:34:11,594 - INFO - Progress: 422,084/500,000 transactions (iteration 80,000)
+2025-06-08 04:34:11,594 - DEBUG - Memory usage: 1968.00 MB
+2025-06-08 04:34:11,686 - INFO - Progress: 424,046/500,000 transactions (iteration 90,000)
+2025-06-08 04:34:11,686 - DEBUG - Memory usage: 1968.00 MB
+2025-06-08 04:34:11,788 - INFO - Progress: 426,089/500,000 transactions (iteration 100,000)
+2025-06-08 04:34:11,788 - DEBUG - Memory usage: 1968.00 MB
+2025-06-08 04:34:11,891 - INFO - Progress: 428,130/500,000 transactions (iteration 110,000)
+2025-06-08 04:34:11,892 - DEBUG - Memory usage: 1968.00 MB
+2025-06-08 04:34:26,217 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:34:26,802 - DEBUG - Memory usage: 2061.49 MB
+2025-06-08 04:34:26,811 - INFO - Progress: 430,099/500,000 transactions (iteration 120,000)
+2025-06-08 04:34:26,812 - DEBUG - Memory usage: 2061.49 MB
+2025-06-08 04:34:26,923 - INFO - Progress: 432,119/500,000 transactions (iteration 130,000)
+2025-06-08 04:34:26,923 - DEBUG - Memory usage: 2061.49 MB
+2025-06-08 04:34:27,025 - INFO - Progress: 434,104/500,000 transactions (iteration 140,000)
+2025-06-08 04:34:27,026 - DEBUG - Memory usage: 2061.49 MB
+2025-06-08 04:34:27,128 - INFO - Progress: 436,141/500,000 transactions (iteration 150,000)
+2025-06-08 04:34:27,128 - DEBUG - Memory usage: 2061.49 MB
+2025-06-08 04:34:27,232 - INFO - Progress: 438,109/500,000 transactions (iteration 160,000)
+2025-06-08 04:34:27,233 - DEBUG - Memory usage: 2061.49 MB
+2025-06-08 04:34:41,988 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:34:42,698 - DEBUG - Memory usage: 2006.20 MB
+2025-06-08 04:34:42,705 - INFO - Progress: 440,066/500,000 transactions (iteration 170,000)
+2025-06-08 04:34:42,706 - DEBUG - Memory usage: 2006.20 MB
+2025-06-08 04:34:42,818 - INFO - Progress: 442,021/500,000 transactions (iteration 180,000)
+2025-06-08 04:34:42,819 - DEBUG - Memory usage: 2006.20 MB
+2025-06-08 04:34:42,920 - INFO - Progress: 444,027/500,000 transactions (iteration 190,000)
+2025-06-08 04:34:42,921 - DEBUG - Memory usage: 2006.20 MB
+2025-06-08 04:34:43,024 - INFO - Progress: 446,055/500,000 transactions (iteration 200,000)
+2025-06-08 04:34:43,024 - DEBUG - Memory usage: 2006.20 MB
+2025-06-08 04:34:43,120 - INFO - Progress: 448,046/500,000 transactions (iteration 210,000)
+2025-06-08 04:34:43,121 - DEBUG - Memory usage: 2006.20 MB
+2025-06-08 04:34:58,383 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:34:59,036 - DEBUG - Memory usage: 2099.56 MB
+2025-06-08 04:34:59,044 - INFO - Progress: 450,121/500,000 transactions (iteration 220,000)
+2025-06-08 04:34:59,044 - DEBUG - Memory usage: 2099.56 MB
+2025-06-08 04:34:59,156 - INFO - Progress: 452,186/500,000 transactions (iteration 230,000)
+2025-06-08 04:34:59,157 - DEBUG - Memory usage: 2099.56 MB
+2025-06-08 04:34:59,249 - INFO - Progress: 454,136/500,000 transactions (iteration 240,000)
+2025-06-08 04:34:59,249 - DEBUG - Memory usage: 2099.56 MB
+2025-06-08 04:34:59,349 - INFO - Progress: 456,183/500,000 transactions (iteration 250,000)
+2025-06-08 04:34:59,350 - DEBUG - Memory usage: 2099.56 MB
+2025-06-08 04:34:59,459 - INFO - Progress: 458,180/500,000 transactions (iteration 260,000)
+2025-06-08 04:34:59,460 - DEBUG - Memory usage: 2099.56 MB
+2025-06-08 04:35:15,145 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:35:15,831 - DEBUG - Memory usage: 2044.31 MB
+2025-06-08 04:35:15,846 - INFO - Progress: 460,165/500,000 transactions (iteration 270,000)
+2025-06-08 04:35:15,846 - DEBUG - Memory usage: 2044.31 MB
+2025-06-08 04:35:15,951 - INFO - Progress: 462,101/500,000 transactions (iteration 280,000)
+2025-06-08 04:35:15,952 - DEBUG - Memory usage: 2044.31 MB
+2025-06-08 04:35:15,973 - DEBUG - Insufficient stock prod_02607: 2 < 3. Setting to 0.
+2025-06-08 04:35:15,998 - DEBUG - Insufficient stock prod_02607: 0 < 1. Setting to 0.
+2025-06-08 04:35:16,056 - INFO - Progress: 464,087/500,000 transactions (iteration 290,000)
+2025-06-08 04:35:16,057 - DEBUG - Memory usage: 2044.31 MB
+2025-06-08 04:35:16,093 - DEBUG - Insufficient stock prod_04305: 0 < 1. Setting to 0.
+2025-06-08 04:35:16,103 - DEBUG - Insufficient stock prod_02676: 0 < 3. Setting to 0.
+2025-06-08 04:35:16,109 - DEBUG - Insufficient stock prod_02607: 0 < 3. Setting to 0.
+2025-06-08 04:35:16,166 - INFO - Progress: 466,109/500,000 transactions (iteration 300,000)
+2025-06-08 04:35:16,167 - DEBUG - Memory usage: 2044.31 MB
+2025-06-08 04:35:16,179 - DEBUG - Insufficient stock prod_04305: 0 < 2. Setting to 0.
+2025-06-08 04:35:16,182 - DEBUG - Insufficient stock prod_02676: 0 < 1. Setting to 0.
+2025-06-08 04:35:16,193 - DEBUG - Insufficient stock prod_02676: 0 < 3. Setting to 0.
+2025-06-08 04:35:16,199 - DEBUG - Insufficient stock prod_02676: 0 < 2. Setting to 0.
+2025-06-08 04:35:16,213 - DEBUG - Insufficient stock prod_02676: 0 < 1. Setting to 0.
+2025-06-08 04:35:16,228 - DEBUG - Insufficient stock prod_02607: 0 < 1. Setting to 0.
+2025-06-08 04:35:16,230 - DEBUG - Insufficient stock prod_00322: 0 < 1. Setting to 0.
+2025-06-08 04:35:16,232 - DEBUG - Insufficient stock prod_00747: 2 < 3. Setting to 0.
+2025-06-08 04:35:16,233 - DEBUG - Insufficient stock prod_04305: 0 < 3. Setting to 0.
+2025-06-08 04:35:16,247 - DEBUG - Insufficient stock prod_00747: 0 < 3. Setting to 0.
+2025-06-08 04:35:16,263 - DEBUG - Insufficient stock prod_00322: 0 < 2. Setting to 0.
+2025-06-08 04:35:16,273 - INFO - Progress: 468,197/500,000 transactions (iteration 310,000)
+2025-06-08 04:35:16,274 - DEBUG - Memory usage: 2044.31 MB
+2025-06-08 04:35:16,349 - DEBUG - Insufficient stock prod_02607: 0 < 2. Setting to 0.
+2025-06-08 04:35:16,380 - DEBUG - Insufficient stock prod_00322: 0 < 2. Setting to 0.
+2025-06-08 04:35:16,398 - DEBUG - Insufficient stock prod_00322: 0 < 1. Setting to 0.
+2025-06-08 04:35:32,488 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:35:33,173 - DEBUG - Memory usage: 2137.70 MB
+2025-06-08 04:35:33,192 - INFO - Progress: 470,207/500,000 transactions (iteration 320,000)
+2025-06-08 04:35:33,192 - DEBUG - Memory usage: 2137.70 MB
+2025-06-08 04:35:33,240 - DEBUG - Insufficient stock prod_02676: 0 < 1. Setting to 0.
+2025-06-08 04:35:33,268 - DEBUG - Insufficient stock prod_02676: 0 < 2. Setting to 0.
+2025-06-08 04:35:33,286 - DEBUG - Insufficient stock prod_00747: 0 < 3. Setting to 0.
+2025-06-08 04:35:33,299 - DEBUG - Insufficient stock prod_00747: 0 < 3. Setting to 0.
+2025-06-08 04:35:33,305 - INFO - Progress: 472,194/500,000 transactions (iteration 330,000)
+2025-06-08 04:35:33,305 - DEBUG - Memory usage: 2137.70 MB
+2025-06-08 04:35:33,312 - DEBUG - Insufficient stock prod_02607: 0 < 2. Setting to 0.
+2025-06-08 04:35:33,330 - DEBUG - Insufficient stock prod_02607: 0 < 2. Setting to 0.
+2025-06-08 04:35:33,346 - DEBUG - Insufficient stock prod_00322: 0 < 3. Setting to 0.
+2025-06-08 04:35:33,359 - DEBUG - Insufficient stock prod_02607: 0 < 3. Setting to 0.
+2025-06-08 04:35:33,393 - DEBUG - Insufficient stock prod_02676: 0 < 1. Setting to 0.
+2025-06-08 04:35:33,393 - DEBUG - Insufficient stock prod_02607: 0 < 3. Setting to 0.
+2025-06-08 04:35:33,409 - DEBUG - Insufficient stock prod_00322: 0 < 2. Setting to 0.
+2025-06-08 04:35:33,417 - INFO - Progress: 474,206/500,000 transactions (iteration 340,000)
+2025-06-08 04:35:33,417 - DEBUG - Memory usage: 2137.70 MB
+2025-06-08 04:35:33,435 - DEBUG - Insufficient stock prod_00747: 0 < 1. Setting to 0.
+2025-06-08 04:35:33,465 - DEBUG - Insufficient stock prod_00747: 0 < 2. Setting to 0.
+2025-06-08 04:35:33,505 - DEBUG - Insufficient stock prod_00747: 0 < 2. Setting to 0.
+2025-06-08 04:35:33,510 - DEBUG - Insufficient stock prod_02607: 0 < 1. Setting to 0.
+2025-06-08 04:35:33,511 - DEBUG - Insufficient stock prod_02627: 1 < 3. Setting to 0.
+2025-06-08 04:35:33,537 - DEBUG - Insufficient stock prod_04305: 0 < 1. Setting to 0.
+2025-06-08 04:35:33,540 - DEBUG - Insufficient stock prod_00322: 0 < 1. Setting to 0.
+2025-06-08 04:35:33,542 - DEBUG - Insufficient stock prod_00322: 0 < 2. Setting to 0.
+2025-06-08 04:35:33,556 - DEBUG - Insufficient stock prod_02676: 0 < 3. Setting to 0.
+2025-06-08 04:35:33,564 - DEBUG - Insufficient stock prod_02773: 2 < 3. Setting to 0.
+2025-06-08 04:35:33,584 - DEBUG - Insufficient stock prod_00322: 0 < 1. Setting to 0.
+2025-06-08 04:35:33,590 - DEBUG - Insufficient stock prod_04305: 0 < 3. Setting to 0.
+2025-06-08 04:35:33,604 - DEBUG - Insufficient stock prod_03677: 1 < 3. Setting to 0.
+2025-06-08 04:35:33,614 - DEBUG - Insufficient stock prod_01074: 1 < 3. Setting to 0.
+2025-06-08 04:35:33,622 - INFO - Progress: 478,024/500,000 transactions (iteration 350,000)
+2025-06-08 04:35:33,623 - DEBUG - Memory usage: 2137.70 MB
+2025-06-08 04:35:33,627 - DEBUG - Insufficient stock prod_02171: 0 < 1. Setting to 0.
+2025-06-08 04:35:33,644 - DEBUG - Insufficient stock prod_02676: 0 < 2. Setting to 0.
+2025-06-08 04:35:33,644 - DEBUG - Insufficient stock prod_02676: 0 < 3. Setting to 0.
+2025-06-08 04:35:33,646 - DEBUG - Insufficient stock prod_01732: 0 < 3. Setting to 0.
+2025-06-08 04:35:33,654 - DEBUG - Insufficient stock prod_02607: 0 < 1. Setting to 0.
+2025-06-08 04:35:33,655 - DEBUG - Insufficient stock prod_01074: 0 < 3. Setting to 0.
+2025-06-08 04:35:33,660 - DEBUG - Insufficient stock prod_02607: 0 < 3. Setting to 0.
+2025-06-08 04:35:33,664 - DEBUG - Insufficient stock prod_03046: 1 < 2. Setting to 0.
+2025-06-08 04:35:33,666 - DEBUG - Insufficient stock prod_02676: 0 < 3. Setting to 0.
+2025-06-08 04:35:33,671 - DEBUG - Insufficient stock prod_02171: 0 < 1. Setting to 0.
+2025-06-08 04:35:33,679 - DEBUG - Insufficient stock prod_00322: 0 < 1. Setting to 0.
+2025-06-08 04:35:33,689 - DEBUG - Insufficient stock prod_00747: 0 < 1. Setting to 0.
+2025-06-08 04:35:33,693 - DEBUG - Insufficient stock prod_01732: 0 < 2. Setting to 0.
+2025-06-08 04:35:33,697 - DEBUG - Insufficient stock prod_03786: 0 < 3. Setting to 0.
+2025-06-08 04:35:33,698 - DEBUG - Insufficient stock prod_00747: 0 < 1. Setting to 0.
+2025-06-08 04:35:33,698 - DEBUG - Insufficient stock prod_03786: 0 < 1. Setting to 0.
+2025-06-08 04:35:33,700 - DEBUG - Insufficient stock prod_04305: 0 < 2. Setting to 0.
+2025-06-08 04:35:33,705 - DEBUG - Insufficient stock prod_01074: 0 < 3. Setting to 0.
+2025-06-08 04:35:33,706 - DEBUG - Insufficient stock prod_02773: 0 < 2. Setting to 0.
+2025-06-08 04:35:33,708 - DEBUG - Insufficient stock prod_01074: 0 < 3. Setting to 0.
+2025-06-08 04:35:33,718 - DEBUG - Insufficient stock prod_02773: 0 < 1. Setting to 0.
+2025-06-08 04:35:33,727 - DEBUG - Insufficient stock prod_03786: 0 < 2. Setting to 0.
+2025-06-08 04:35:33,728 - DEBUG - Insufficient stock prod_02773: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,009 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:35:50,714 - DEBUG - Memory usage: 2082.41 MB
+2025-06-08 04:35:50,718 - DEBUG - Insufficient stock prod_00322: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,737 - DEBUG - Insufficient stock prod_04305: 0 < 2. Setting to 0.
+2025-06-08 04:35:50,745 - DEBUG - Insufficient stock prod_02171: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,747 - DEBUG - Insufficient stock prod_01732: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,749 - DEBUG - Insufficient stock prod_02773: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,751 - DEBUG - Insufficient stock prod_02607: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,754 - DEBUG - Insufficient stock prod_02773: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,781 - DEBUG - Insufficient stock prod_00747: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,782 - DEBUG - Insufficient stock prod_00199: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,784 - DEBUG - Insufficient stock prod_02773: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,786 - DEBUG - Insufficient stock prod_01732: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,788 - DEBUG - Insufficient stock prod_01732: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,789 - DEBUG - Insufficient stock prod_02627: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,797 - DEBUG - Insufficient stock prod_02607: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,799 - DEBUG - Insufficient stock prod_02171: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,799 - DEBUG - Insufficient stock prod_00322: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,804 - DEBUG - Insufficient stock prod_03677: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,806 - DEBUG - Insufficient stock prod_02676: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,807 - DEBUG - Insufficient stock prod_03046: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,809 - DEBUG - Insufficient stock prod_00747: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,810 - DEBUG - Insufficient stock prod_02052: 0 < 2. Setting to 0.
+2025-06-08 04:35:50,815 - DEBUG - Insufficient stock prod_02773: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,821 - DEBUG - Insufficient stock prod_01074: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,822 - DEBUG - Insufficient stock prod_01074: 0 < 2. Setting to 0.
+2025-06-08 04:35:50,824 - DEBUG - Insufficient stock prod_04305: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,826 - DEBUG - Insufficient stock prod_01074: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,826 - DEBUG - Insufficient stock prod_01515: 0 < 2. Setting to 0.
+2025-06-08 04:35:50,831 - DEBUG - Insufficient stock prod_00747: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,834 - DEBUG - Insufficient stock prod_03046: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,842 - DEBUG - Insufficient stock prod_03677: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,844 - DEBUG - Insufficient stock prod_03786: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,874 - DEBUG - Insufficient stock prod_03046: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,878 - DEBUG - Insufficient stock prod_03677: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,879 - DEBUG - Insufficient stock prod_00199: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,882 - DEBUG - Insufficient stock prod_02607: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,885 - DEBUG - Insufficient stock prod_02773: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,886 - INFO - Progress: 483,044/500,000 transactions (iteration 360,000)
+2025-06-08 04:35:50,886 - DEBUG - Memory usage: 2082.41 MB
+2025-06-08 04:35:50,892 - DEBUG - Insufficient stock prod_02676: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,894 - DEBUG - Insufficient stock prod_02627: 0 < 2. Setting to 0.
+2025-06-08 04:35:50,897 - DEBUG - Insufficient stock prod_02773: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,901 - DEBUG - Insufficient stock prod_00322: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,901 - DEBUG - Insufficient stock prod_01074: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,920 - DEBUG - Insufficient stock prod_01732: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,922 - DEBUG - Insufficient stock prod_02052: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,923 - DEBUG - Insufficient stock prod_02171: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,932 - DEBUG - Insufficient stock prod_04305: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,933 - DEBUG - Insufficient stock prod_02676: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,934 - DEBUG - Insufficient stock prod_04759: 1 < 3. Setting to 0.
+2025-06-08 04:35:50,935 - DEBUG - Insufficient stock prod_02607: 0 < 2. Setting to 0.
+2025-06-08 04:35:50,939 - DEBUG - Insufficient stock prod_02171: 0 < 2. Setting to 0.
+2025-06-08 04:35:50,944 - DEBUG - Insufficient stock prod_00199: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,962 - DEBUG - Insufficient stock prod_01515: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,965 - DEBUG - Insufficient stock prod_02676: 0 < 2. Setting to 0.
+2025-06-08 04:35:50,972 - DEBUG - Insufficient stock prod_02676: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,975 - DEBUG - Insufficient stock prod_00199: 0 < 2. Setting to 0.
+2025-06-08 04:35:50,979 - DEBUG - Insufficient stock prod_01732: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,983 - DEBUG - Insufficient stock prod_02607: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,985 - DEBUG - Insufficient stock prod_03046: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,987 - DEBUG - Insufficient stock prod_01515: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,994 - DEBUG - Insufficient stock prod_02052: 0 < 2. Setting to 0.
+2025-06-08 04:35:50,995 - DEBUG - Insufficient stock prod_02676: 0 < 3. Setting to 0.
+2025-06-08 04:35:50,995 - DEBUG - Insufficient stock prod_02052: 0 < 1. Setting to 0.
+2025-06-08 04:35:50,997 - DEBUG - Insufficient stock prod_02994: 0 < 3. Setting to 0.
+2025-06-08 04:35:51,008 - DEBUG - Insufficient stock prod_02773: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,014 - DEBUG - Insufficient stock prod_03677: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,018 - DEBUG - Insufficient stock prod_03550: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,019 - DEBUG - Insufficient stock prod_02607: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,033 - DEBUG - Insufficient stock prod_00747: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,037 - DEBUG - Insufficient stock prod_01515: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,037 - DEBUG - Insufficient stock prod_00613: 1 < 2. Setting to 0.
+2025-06-08 04:35:51,038 - DEBUG - Insufficient stock prod_03677: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,039 - DEBUG - Insufficient stock prod_03677: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,044 - DEBUG - Insufficient stock prod_00199: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,046 - DEBUG - Insufficient stock prod_01515: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,047 - DEBUG - Insufficient stock prod_00613: 0 < 3. Setting to 0.
+2025-06-08 04:35:51,048 - DEBUG - Insufficient stock prod_01515: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,049 - DEBUG - Insufficient stock prod_02607: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,050 - DEBUG - Insufficient stock prod_02171: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,050 - DEBUG - Insufficient stock prod_03786: 0 < 3. Setting to 0.
+2025-06-08 04:35:51,055 - DEBUG - Insufficient stock prod_02676: 0 < 3. Setting to 0.
+2025-06-08 04:35:51,057 - DEBUG - Insufficient stock prod_02994: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,059 - DEBUG - Insufficient stock prod_03046: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,060 - DEBUG - Insufficient stock prod_04305: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,060 - DEBUG - Insufficient stock prod_01074: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,061 - DEBUG - Insufficient stock prod_01515: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,066 - DEBUG - Insufficient stock prod_02607: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,068 - DEBUG - Insufficient stock prod_00199: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,069 - DEBUG - Insufficient stock prod_00322: 0 < 3. Setting to 0.
+2025-06-08 04:35:51,069 - DEBUG - Insufficient stock prod_02052: 0 < 3. Setting to 0.
+2025-06-08 04:35:51,071 - DEBUG - Insufficient stock prod_02773: 0 < 3. Setting to 0.
+2025-06-08 04:35:51,073 - DEBUG - Insufficient stock prod_00199: 0 < 3. Setting to 0.
+2025-06-08 04:35:51,085 - DEBUG - Insufficient stock prod_00747: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,086 - DEBUG - Insufficient stock prod_02676: 0 < 3. Setting to 0.
+2025-06-08 04:35:51,091 - DEBUG - Insufficient stock prod_01074: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,094 - DEBUG - Insufficient stock prod_00232: 0 < 3. Setting to 0.
+2025-06-08 04:35:51,097 - DEBUG - Insufficient stock prod_02607: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,098 - DEBUG - Insufficient stock prod_03550: 0 < 3. Setting to 0.
+2025-06-08 04:35:51,105 - DEBUG - Insufficient stock prod_03786: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,115 - DEBUG - Insufficient stock prod_00747: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,121 - DEBUG - Insufficient stock prod_01515: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,122 - DEBUG - Insufficient stock prod_04759: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,125 - DEBUG - Insufficient stock prod_03677: 0 < 3. Setting to 0.
+2025-06-08 04:35:51,126 - DEBUG - Insufficient stock prod_02773: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,128 - DEBUG - Insufficient stock prod_00747: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,128 - DEBUG - Insufficient stock prod_03786: 0 < 3. Setting to 0.
+2025-06-08 04:35:51,131 - DEBUG - Insufficient stock prod_02676: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,132 - DEBUG - Insufficient stock prod_00747: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,143 - DEBUG - Insufficient stock prod_01732: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,144 - DEBUG - Insufficient stock prod_00747: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,147 - DEBUG - Insufficient stock prod_03017: 2 < 3. Setting to 0.
+2025-06-08 04:35:51,156 - INFO - Progress: 488,047/500,000 transactions (iteration 370,000)
+2025-06-08 04:35:51,157 - DEBUG - Memory usage: 2082.41 MB
+2025-06-08 04:35:51,163 - DEBUG - Insufficient stock prod_03786: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,165 - DEBUG - Insufficient stock prod_02994: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,169 - DEBUG - Insufficient stock prod_01732: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,175 - DEBUG - Insufficient stock prod_01732: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,180 - DEBUG - Insufficient stock prod_03091: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,183 - DEBUG - Insufficient stock prod_03046: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,194 - DEBUG - Insufficient stock prod_02607: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,195 - DEBUG - Insufficient stock prod_02676: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,200 - DEBUG - Insufficient stock prod_03046: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,211 - DEBUG - Insufficient stock prod_02994: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,213 - DEBUG - Insufficient stock prod_03046: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,215 - DEBUG - Insufficient stock prod_00613: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,216 - DEBUG - Insufficient stock prod_00322: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,218 - DEBUG - Insufficient stock prod_01515: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,220 - DEBUG - Insufficient stock prod_00232: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,222 - DEBUG - Insufficient stock prod_04759: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,241 - DEBUG - Insufficient stock prod_00199: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,242 - DEBUG - Insufficient stock prod_00613: 0 < 2. Setting to 0.
+2025-06-08 04:35:51,251 - DEBUG - Insufficient stock prod_02052: 0 < 3. Setting to 0.
+2025-06-08 04:35:51,254 - DEBUG - Insufficient stock prod_01074: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,255 - DEBUG - Insufficient stock prod_03091: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,255 - DEBUG - Insufficient stock prod_00322: 0 < 3. Setting to 0.
+2025-06-08 04:35:51,264 - DEBUG - Insufficient stock prod_03677: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,269 - DEBUG - Insufficient stock prod_03091: 0 < 1. Setting to 0.
+2025-06-08 04:35:51,271 - DEBUG - Insufficient stock prod_02607: 0 < 2. Setting to 0.
+2025-06-08 04:36:08,342 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:36:09,044 - DEBUG - Memory usage: 2176.75 MB
+2025-06-08 04:36:09,057 - DEBUG - Insufficient stock prod_00199: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,066 - DEBUG - Insufficient stock prod_03670: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,068 - DEBUG - Insufficient stock prod_00322: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,081 - DEBUG - Insufficient stock prod_04759: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,083 - DEBUG - Insufficient stock prod_03786: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,084 - DEBUG - Insufficient stock prod_03091: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,089 - DEBUG - Insufficient stock prod_01732: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,095 - DEBUG - Insufficient stock prod_04305: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,096 - DEBUG - Insufficient stock prod_02627: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,096 - DEBUG - Insufficient stock prod_03677: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,099 - DEBUG - Insufficient stock prod_04759: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,100 - DEBUG - Insufficient stock prod_02627: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,103 - DEBUG - Insufficient stock prod_04920: 1 < 3. Setting to 0.
+2025-06-08 04:36:09,105 - DEBUG - Insufficient stock prod_04920: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,112 - DEBUG - Insufficient stock prod_03091: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,114 - DEBUG - Insufficient stock prod_00199: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,116 - DEBUG - Insufficient stock prod_03786: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,117 - DEBUG - Insufficient stock prod_00199: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,127 - DEBUG - Insufficient stock prod_01732: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,130 - DEBUG - Insufficient stock prod_02607: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,130 - DEBUG - Insufficient stock prod_00322: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,141 - DEBUG - Insufficient stock prod_00558: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,143 - DEBUG - Insufficient stock prod_04274: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,144 - DEBUG - Insufficient stock prod_04759: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,146 - DEBUG - Insufficient stock prod_00322: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,155 - DEBUG - Insufficient stock prod_01515: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,156 - DEBUG - Insufficient stock prod_03618: 1 < 3. Setting to 0.
+2025-06-08 04:36:09,158 - DEBUG - Insufficient stock prod_01515: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,159 - DEBUG - Insufficient stock prod_03091: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,163 - DEBUG - Insufficient stock prod_03046: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,165 - DEBUG - Insufficient stock prod_04274: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,168 - DEBUG - Insufficient stock prod_02607: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,169 - DEBUG - Insufficient stock prod_02171: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,171 - DEBUG - Insufficient stock prod_03091: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,178 - DEBUG - Insufficient stock prod_04759: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,180 - DEBUG - Insufficient stock prod_01515: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,180 - DEBUG - Insufficient stock prod_01732: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,184 - DEBUG - Insufficient stock prod_02052: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,196 - DEBUG - Insufficient stock prod_04274: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,197 - DEBUG - Insufficient stock prod_02052: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,201 - DEBUG - Insufficient stock prod_01074: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,202 - DEBUG - Insufficient stock prod_02046: 2 < 3. Setting to 0.
+2025-06-08 04:36:09,206 - DEBUG - Insufficient stock prod_01074: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,206 - DEBUG - Insufficient stock prod_04420: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,208 - DEBUG - Insufficient stock prod_00232: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,211 - DEBUG - Insufficient stock prod_00968: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,213 - DEBUG - Insufficient stock prod_01515: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,213 - DEBUG - Insufficient stock prod_00232: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,216 - DEBUG - Insufficient stock prod_02171: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,217 - DEBUG - Insufficient stock prod_03786: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,223 - DEBUG - Insufficient stock prod_03017: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,225 - INFO - Progress: 493,112/500,000 transactions (iteration 380,000)
+2025-06-08 04:36:09,225 - DEBUG - Memory usage: 2176.75 MB
+2025-06-08 04:36:09,225 - DEBUG - Insufficient stock prod_03677: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,228 - DEBUG - Insufficient stock prod_01074: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,232 - DEBUG - Insufficient stock prod_00968: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,234 - DEBUG - Insufficient stock prod_04920: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,236 - DEBUG - Insufficient stock prod_02171: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,238 - DEBUG - Insufficient stock prod_00968: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,238 - DEBUG - Insufficient stock prod_03046: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,240 - DEBUG - Insufficient stock prod_00558: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,243 - DEBUG - Insufficient stock prod_00322: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,243 - DEBUG - Insufficient stock prod_01074: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,244 - DEBUG - Insufficient stock prod_02328: 1 < 2. Setting to 0.
+2025-06-08 04:36:09,247 - DEBUG - Insufficient stock prod_00747: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,248 - DEBUG - Insufficient stock prod_01888: 2 < 3. Setting to 0.
+2025-06-08 04:36:09,251 - DEBUG - Insufficient stock prod_04305: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,252 - DEBUG - Insufficient stock prod_04759: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,254 - DEBUG - Insufficient stock prod_00613: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,259 - DEBUG - Insufficient stock prod_02046: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,260 - DEBUG - Insufficient stock prod_04759: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,261 - DEBUG - Insufficient stock prod_00432: 1 < 2. Setting to 0.
+2025-06-08 04:36:09,263 - DEBUG - Insufficient stock prod_03091: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,268 - DEBUG - Insufficient stock prod_03618: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,272 - DEBUG - Insufficient stock prod_02627: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,276 - DEBUG - Insufficient stock prod_01732: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,280 - DEBUG - Insufficient stock prod_02052: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,281 - DEBUG - Insufficient stock prod_03618: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,297 - DEBUG - Insufficient stock prod_00558: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,299 - DEBUG - Insufficient stock prod_01515: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,300 - DEBUG - Insufficient stock prod_02994: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,309 - DEBUG - Insufficient stock prod_04759: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,311 - DEBUG - Insufficient stock prod_02627: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,314 - DEBUG - Insufficient stock prod_00432: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,316 - DEBUG - Insufficient stock prod_02328: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,319 - DEBUG - Insufficient stock prod_04420: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,325 - DEBUG - Insufficient stock prod_01984: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,328 - DEBUG - Insufficient stock prod_02773: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,329 - DEBUG - Insufficient stock prod_00668: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,330 - DEBUG - Insufficient stock prod_03046: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,331 - DEBUG - Insufficient stock prod_02773: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,332 - DEBUG - Insufficient stock prod_02607: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,334 - DEBUG - Insufficient stock prod_02171: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,336 - DEBUG - Insufficient stock prod_02607: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,337 - DEBUG - Insufficient stock prod_02676: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,338 - DEBUG - Insufficient stock prod_01732: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,338 - DEBUG - Insufficient stock prod_01888: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,340 - DEBUG - Insufficient stock prod_03677: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,343 - DEBUG - Insufficient stock prod_01984: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,344 - DEBUG - Insufficient stock prod_02607: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,346 - DEBUG - Insufficient stock prod_00322: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,351 - DEBUG - Insufficient stock prod_02171: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,354 - DEBUG - Insufficient stock prod_03199: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,359 - DEBUG - Insufficient stock prod_00322: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,360 - DEBUG - Insufficient stock prod_01888: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,362 - DEBUG - Insufficient stock prod_00199: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,363 - DEBUG - Insufficient stock prod_01732: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,363 - DEBUG - Insufficient stock prod_03618: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,364 - DEBUG - Insufficient stock prod_02734: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,365 - DEBUG - Insufficient stock prod_03550: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,370 - DEBUG - Insufficient stock prod_02734: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,371 - DEBUG - Insufficient stock prod_02773: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,373 - DEBUG - Insufficient stock prod_00322: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,374 - DEBUG - Insufficient stock prod_02676: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,375 - DEBUG - Insufficient stock prod_01732: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,378 - DEBUG - Insufficient stock prod_00322: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,378 - DEBUG - Insufficient stock prod_03677: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,379 - DEBUG - Insufficient stock prod_00322: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,382 - DEBUG - Insufficient stock prod_01888: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,383 - DEBUG - Insufficient stock prod_00613: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,387 - DEBUG - Insufficient stock prod_03017: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,389 - DEBUG - Insufficient stock prod_03989: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,393 - DEBUG - Insufficient stock prod_00322: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,393 - DEBUG - Insufficient stock prod_02676: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,393 - DEBUG - Insufficient stock prod_04420: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,393 - DEBUG - Insufficient stock prod_03046: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,395 - DEBUG - Insufficient stock prod_02734: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,398 - DEBUG - Insufficient stock prod_00968: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,399 - DEBUG - Insufficient stock prod_02734: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,405 - DEBUG - Insufficient stock prod_04920: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,407 - DEBUG - Insufficient stock prod_03677: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,408 - DEBUG - Insufficient stock prod_00804: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,409 - DEBUG - Insufficient stock prod_00558: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,410 - DEBUG - Insufficient stock prod_03550: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,411 - DEBUG - Insufficient stock prod_01074: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,413 - DEBUG - Insufficient stock prod_01313: 1 < 3. Setting to 0.
+2025-06-08 04:36:09,414 - DEBUG - Insufficient stock prod_00596: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,415 - DEBUG - Insufficient stock prod_04420: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,417 - DEBUG - Insufficient stock prod_04676: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,419 - DEBUG - Insufficient stock prod_02627: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,424 - DEBUG - Insufficient stock prod_03046: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,425 - DEBUG - Insufficient stock prod_04305: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,427 - DEBUG - Insufficient stock prod_00558: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,432 - DEBUG - Insufficient stock prod_02328: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,438 - DEBUG - Insufficient stock prod_00199: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,441 - DEBUG - Insufficient stock prod_00232: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,442 - DEBUG - Insufficient stock prod_04676: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,444 - DEBUG - Insufficient stock prod_04420: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,445 - DEBUG - Insufficient stock prod_00322: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,446 - DEBUG - Insufficient stock prod_04420: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,448 - DEBUG - Insufficient stock prod_02052: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,448 - DEBUG - Insufficient stock prod_00945: 2 < 3. Setting to 0.
+2025-06-08 04:36:09,451 - DEBUG - Insufficient stock prod_02171: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,451 - DEBUG - Insufficient stock prod_02676: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,452 - DEBUG - Insufficient stock prod_03550: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,457 - DEBUG - Insufficient stock prod_04676: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,458 - DEBUG - Insufficient stock prod_03550: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,459 - DEBUG - Insufficient stock prod_00945: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,460 - DEBUG - Insufficient stock prod_02773: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,464 - DEBUG - Insufficient stock prod_00945: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,465 - DEBUG - Insufficient stock prod_03677: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,470 - DEBUG - Insufficient stock prod_01515: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,471 - DEBUG - Insufficient stock prod_01888: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,471 - DEBUG - Insufficient stock prod_02171: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,471 - DEBUG - Insufficient stock prod_04305: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,473 - DEBUG - Insufficient stock prod_00432: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,474 - DEBUG - Insufficient stock prod_00968: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,476 - DEBUG - Insufficient stock prod_01888: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,477 - DEBUG - Insufficient stock prod_00596: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,480 - DEBUG - Insufficient stock prod_03874: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,484 - DEBUG - Insufficient stock prod_01732: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,485 - DEBUG - Insufficient stock prod_00945: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,486 - DEBUG - Insufficient stock prod_01515: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,489 - DEBUG - Insufficient stock prod_00668: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,491 - DEBUG - Insufficient stock prod_02627: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,494 - DEBUG - Insufficient stock prod_02734: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,495 - DEBUG - Insufficient stock prod_01732: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,497 - DEBUG - Insufficient stock prod_01952: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,500 - DEBUG - Insufficient stock prod_02052: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,501 - DEBUG - Insufficient stock prod_00945: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,506 - DEBUG - Insufficient stock prod_02845: 1 < 2. Setting to 0.
+2025-06-08 04:36:09,507 - DEBUG - Insufficient stock prod_02607: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,508 - DEBUG - Insufficient stock prod_02052: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,510 - DEBUG - Insufficient stock prod_02171: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,510 - DEBUG - Insufficient stock prod_01515: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,511 - DEBUG - Insufficient stock prod_02328: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,511 - DEBUG - Insufficient stock prod_01515: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,512 - DEBUG - Insufficient stock prod_00432: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,512 - DEBUG - Insufficient stock prod_03786: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,513 - DEBUG - Insufficient stock prod_04676: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,515 - DEBUG - Insufficient stock prod_04274: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,517 - DEBUG - Insufficient stock prod_02607: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,517 - DEBUG - Insufficient stock prod_00199: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,519 - DEBUG - Insufficient stock prod_00558: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,524 - INFO - Progress: 498,027/500,000 transactions (iteration 390,000)
+2025-06-08 04:36:09,524 - DEBUG - Memory usage: 2176.75 MB
+2025-06-08 04:36:09,528 - DEBUG - Insufficient stock prod_03677: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,530 - DEBUG - Insufficient stock prod_00804: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,531 - DEBUG - Insufficient stock prod_00968: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,532 - DEBUG - Insufficient stock prod_00968: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,533 - DEBUG - Insufficient stock prod_00322: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,535 - DEBUG - Insufficient stock prod_02994: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,538 - DEBUG - Insufficient stock prod_02845: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,540 - DEBUG - Insufficient stock prod_01074: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,543 - DEBUG - Insufficient stock prod_01935: 1 < 3. Setting to 0.
+2025-06-08 04:36:09,544 - DEBUG - Insufficient stock prod_02627: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,544 - DEBUG - Insufficient stock prod_02773: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,544 - DEBUG - Insufficient stock prod_00199: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,546 - DEBUG - Insufficient stock prod_03874: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,548 - DEBUG - Insufficient stock prod_01984: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,553 - DEBUG - Insufficient stock prod_02627: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,555 - DEBUG - Insufficient stock prod_01313: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,556 - DEBUG - Insufficient stock prod_02046: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,559 - DEBUG - Insufficient stock prod_01313: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,559 - DEBUG - Insufficient stock prod_02734: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,560 - DEBUG - Insufficient stock prod_00747: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,561 - DEBUG - Insufficient stock prod_03550: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,562 - DEBUG - Insufficient stock prod_04759: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,563 - DEBUG - Insufficient stock prod_01888: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,568 - DEBUG - Insufficient stock prod_02052: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,570 - DEBUG - Insufficient stock prod_03017: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,572 - DEBUG - Insufficient stock prod_04420: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,574 - DEBUG - Insufficient stock prod_04305: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,574 - DEBUG - Insufficient stock prod_02324: 2 < 3. Setting to 0.
+2025-06-08 04:36:09,580 - DEBUG - Insufficient stock prod_00816: 1 < 3. Setting to 0.
+2025-06-08 04:36:09,581 - DEBUG - Insufficient stock prod_00558: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,582 - DEBUG - Insufficient stock prod_02994: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,590 - DEBUG - Insufficient stock prod_04920: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,594 - DEBUG - Insufficient stock prod_04274: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,595 - DEBUG - Insufficient stock prod_03017: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,599 - DEBUG - Insufficient stock prod_02734: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,600 - DEBUG - Insufficient stock prod_03550: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,603 - DEBUG - Insufficient stock prod_00232: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,606 - DEBUG - Insufficient stock prod_03677: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,609 - DEBUG - Insufficient stock prod_00232: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,609 - DEBUG - Insufficient stock prod_01074: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,612 - DEBUG - Insufficient stock prod_03677: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,616 - DEBUG - Insufficient stock prod_00968: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,616 - DEBUG - Insufficient stock prod_03550: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,617 - DEBUG - Insufficient stock prod_00945: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,618 - DEBUG - Insufficient stock prod_00613: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,620 - DEBUG - Insufficient stock prod_02773: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,626 - DEBUG - Insufficient stock prod_03677: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,627 - DEBUG - Insufficient stock prod_01732: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,628 - DEBUG - Insufficient stock prod_03677: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,630 - DEBUG - Insufficient stock prod_00668: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,630 - DEBUG - Insufficient stock prod_03618: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,632 - DEBUG - Insufficient stock prod_01313: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,632 - DEBUG - Insufficient stock prod_02171: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,637 - DEBUG - Insufficient stock prod_00318: 2 < 3. Setting to 0.
+2025-06-08 04:36:09,638 - DEBUG - Insufficient stock prod_00558: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,639 - DEBUG - Insufficient stock prod_00945: 0 < 2. Setting to 0.
+2025-06-08 04:36:09,640 - DEBUG - Insufficient stock prod_02171: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,640 - DEBUG - Insufficient stock prod_03874: 0 < 1. Setting to 0.
+2025-06-08 04:36:09,642 - DEBUG - Insufficient stock prod_00199: 0 < 3. Setting to 0.
+2025-06-08 04:36:09,643 - DEBUG - Insufficient stock prod_03550: 0 < 2. Setting to 0.
+2025-06-08 04:36:27,887 - INFO - Saved /home/seraphine/Big_Data_Final_project/ecommerce_project/data_json/transactions.json
+2025-06-08 04:36:28,567 - DEBUG - Memory usage: 2121.50 MB
+2025-06-08 04:36:28,569 - INFO - 
+Dataset generation complete!
+- Sessions: 2,000,000 (target: 2,000,000)
+- Transactions: 500,000 (target: 500,000)
+- Remaining products: 825,858
+
